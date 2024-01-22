@@ -1,0 +1,1 @@
+{{ !empty($label) ? get_thai_date_format($label, 'd M Y') : '-' }}

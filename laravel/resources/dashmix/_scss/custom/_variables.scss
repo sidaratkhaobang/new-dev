@@ -1,0 +1,21 @@
+//
+// Custom Variables
+//
+// Here you can add your own variables overrides
+//
+// The file is included before any other variable file,
+// so you can override them because they all use !default
+// --------------------------------------------------
+
+// For example, changing the primary color
+// $primary: #3b5998;
+
+$tls-body-bg: #e2e8f0;
+$tls-table-striped-bg: #f6f8fc;
+$tls-border-color: #cbd4e1;
+
+$tls-body-font-01-color: #27364b;
+$tls-body-font-02-color: #475569;
+
+$tls-dark-font-01-color: #0f1a2a;
+$tls-dark-font-02-color: #1e2a3b;

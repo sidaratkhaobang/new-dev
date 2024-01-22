@@ -1,0 +1,17 @@
+name,account,type,branch_id,description,created_at,updated_at,deleted_at,created_by,updated_by,deleted_by
+Service revenue - car rental monthly - CP group,410511001,AR,NULL,รายเดือน CP,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - car rental monthly - external,410511002,AR,NULL,รายเดือน ลูกค้านอก,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - car rental monthly-TRUE & TH Sub,420511003,AR,NULL,รายเดือน True,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - car rental daily - CP group,410512001,AR,NULL,รายวัน CP,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - car rental daily - external,410512002,AR,NULL,รายวัน ลูกค้านอก,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - car rental daily - chiang rai,410512003,AR,NULL,รายวัน เชียงราย,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - car rental daily - TRUE & TH Sub,420512003,AR,NULL,รายวัน True,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - Tow Truck,410513001,AR,NULL,ขนส่ง,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - Boat rental,410513002,AR,NULL,เรือ,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - Sprinter,410513003,AR,Bangkok Branch,Sprinter,2023-02-01 17:18:27,2023-02-22 20:52:06,NULL,NULL,97c792f9-e0c0-44d5-8ce2-f2ccf54b49d7,NULL
+Serivec revenue - Maintenance service,410513004,AR,NULL,รายได้ค่าซ่อมเรือ,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - land & building rental,410514001,AR,Bangkok Branch,รายได้ค่าเช่า,2023-02-01 17:18:27,2023-02-05 20:01:27,NULL,NULL,97c792f9-e0c0-44d5-8ce2-f2ccf54b49d7,NULL
+Product sales - sparepart,460510001,AR,NULL,ขายอะไหล่เรือ,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Other non operating income,799000900,AR,NULL,รายได้อื่น ๆ,2023-02-01 17:18:27,2023-02-01 17:18:27,NULL,NULL,NULL,NULL
+Service revenue - car rental monthly-THANA,420511004,AR,NULL,รายเดือน thana,2023-02-01 17:18:28,2023-02-01 17:18:28,NULL,NULL,NULL,NULL
+Service revenue - car rental daily - THANA,420512004,AR,NULL,รายวัน Thana,2023-02-01 17:18:28,2023-02-01 17:18:28,NULL,NULL,NULL,NULL

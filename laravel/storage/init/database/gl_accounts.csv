@@ -1,0 +1,15 @@
+﻿G/L accoun,CoCd,Long Text,Description
+410511001,1005,Service revenue - car rental monthly - CP group,รายเดือน CP
+410511002,1005,Service revenue - car rental monthly - external,รายเดือน ลูกค้านอก
+420511003,1005,Service revenue - car rental monthly-TRUE & TH Sub,รายเดือน True
+410512001,1005,Service revenue - car rental daily - CP group,รายวัน CP
+410512002,1005,Service revenue - car rental daily - external,รายวัน ลูกค้านอก
+410512003,1005,Service revenue - car rental daily - chiang rai,รายวัน เชียงราย
+420512003,1005,Service revenue - car rental daily - TRUE & TH Sub,รายวัน True
+410513001,1005,Service revenue - Tow Truck,ขนส่ง
+410513002,1005,Service revenue - Boat rental,เรือ
+410513003,1005,Service revenue - Sprinter,Sprinter
+410513004,1005,Serivec revenue - Maintenance service,รายได้ค่าซ่อมเรือ
+410514001,1005,Service revenue - land & building rental,รายได้ค่าเช่า
+460510001,1005,Product sales - sparepart,ขายอะไหล่เรือ
+799000900,1005,Other non operating income,รายได้อื่น ๆ

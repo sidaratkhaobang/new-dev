@@ -1,0 +1,43 @@
+,section_name,section_code
+1,AMO / ฝ่าย Sale & admin,AMO_SALE_ADMIN
+2,AMO / ฝ่าย Long –Term Affiliates Rental,AMO_LONGTERM_AFFILIATES
+3,AMO / ฝ่ายรถขนส่ง,AMO_TRANSPORT
+4,AMO / ฝ่ายควบคุมการเบิกจ่ายเงินสดย่อย,AMO_PETTY_CASH_MANAGEMENT
+5,BMD / Branch Management,BMD_BRANCH_MANAGEMENT
+6,CMD / Long-term Rental,CMD_LONGTERM_RENTAL
+7,CMD / Shot-term Rental,CMD_SHORTTERM_RENTAL
+8,CSD / Customer Service & Corporate,CSD_CUSTOMER_SERVICE_CORPORATE
+9,FAD / หน่วยงาน Collection,FAD_COLLECTION
+10,FAD / หน่วยงานทรัพย์สิน,FAD_ASSET
+11,FAD / หน่วยรายได้และลูกหนี้การค้า,FAD_ACCOUNTS_RECEIVABLE
+12,FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,FAD_FINANCE_RECEIPT
+13,FAD / กระบวนการทำงานด้านรายจ่าย,FAD_ACCOUNT_PAYABLE
+14,FOD / Finance Support,FOD_FINANCE_SUPPORT
+15,FOD / Maintenance Service Support,FOD_MAINTENANCE_SERVICE_SUPPORT
+16,FMD / Feet Management,FMD_FEET_MANAGEMENT
+17,PCD / ฝ่ายเสนอราคา,PCD_SALE
+18,PCD / ฝ่ายสั่งซื้อ,PCD_PURCHASE
+19,PCD / ฝ่ายจัดเตรียมไฟแนนซ์,PCD_PREPARE_FINANCE
+20,PCD / ฝ่ายติดตั้งอุปกรณ์,PCD_INSTALL_EQUIPMENT
+21,PCD / ฝ่ายงานทะเบียน,PCD_REGISTRATION
+22,PCD / ฝ่ายขายรถยนต์ GPS Management,PCD_GPS_MANAGEMENT
+23,PCD / ฝ่ายขายรถยนต์ Resale Department,PCD_RESALE
+24,QMD / Quality Assurance,QMD_QUALITY_ASSURANCE
+25,QMD / Maintenance,QMD_MAINTENANCE
+26,RMD / ฝ่ายกฏหมาย,RMD_LEGAL
+27,RMD / ฝ่ายประกันภัย,RMD_INSURANCE
+28,RMD / ฝ่ายสัญญา,RMD_CONTRACT
+29,RMD / อุบัติเหตุ,RMD_ACCIDENT
+30,SYS / System Admin,SYS_SA
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,58
+,,68

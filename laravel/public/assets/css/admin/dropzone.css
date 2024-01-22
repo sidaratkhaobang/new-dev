@@ -1,0 +1,119 @@
+.dropzone {
+    min-height: 0px !important;
+    background-color: transparent;
+    border: none;
+    padding: 0px 0px;
+}
+
+.file-upload {
+    display: block;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.file-upload .file-select {
+    display: block;
+    border: 2px solid #dce4ec;
+    color: #34495e;
+    cursor: pointer;
+    height: 40px;
+    line-height:  0px;
+    text-align: left;
+    background: none;
+    overflow: hidden;
+    position: relative;
+}
+
+.file-upload .file-select .file-select-button {
+    background: #dce4ec;
+    padding: 0 10px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    cursor: default;
+}
+
+.file-upload .file-select .file-select-name {
+    line-height: 0px;
+    display: inline-block;
+    padding: 0 10px;
+    pointer-events: none;
+}
+
+.file-upload.active .file-select {
+    border-color: #3fa46a;
+    transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+}
+
+.file-upload.active .file-select .file-select-button {
+    background: #3fa46a;
+    color: #FFFFFF;
+    transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+}
+
+.file-upload .file-select input[type=file] {
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.file-upload .file-select.file-select-disabled {
+    opacity: 0.65;
+}
+
+.file-select-button {
+    background: #dce4ec;
+    padding: 0 10px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
+
+.file-select-name.dz-clickable {
+    width: 80%;
+}
+
+.file-select-button {
+    background: #F0F0F0;
+    border-radius: 4px 0px 0px 4px;
+}
+
+.file-upload .file-select {
+    display: block;
+    border: 1px solid #dce4ec;
+    border-radius: 4px 4px 4px 4px;
+    color: #333333;
+}
+
+.dz-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.btn-dropzone,
+.btn-dropzone:hover {
+    color: #E04F1A;
+    background-color: transparent;
+    border: 0px;
+}
+
+.dz-preview-content {
+    width: 100%;
+    margin: 16px 0px 0px 0px !important;
+    min-height: 0px !important;
+}

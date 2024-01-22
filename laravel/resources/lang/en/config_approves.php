@@ -1,0 +1,42 @@
+<?php
+
+use App\Enums\ConfigApproveTypeEnum;
+
+return [
+    'page_title' => 'การอนุมัติ',
+    'seq' => 'ลำดับการอนุมัติ',
+    'department' => 'แผนก',
+    'all_department' => 'ทุกคนในแผนก',
+    'section' => 'ฝ่าย',
+    'all_section' => 'ทุกคนในฝ่าย',
+    'role' => 'บทบาท',
+    'all_role' => 'ทุกคนในบทบาท',
+    'full_name' => 'ชื่อ - นามสกุล',
+    'super_user' => 'เป็น super user',
+    'super_user2' => 'super user',
+    'approve_table' => 'ตารางรายชื่อผู้อนุมัติ',
+    'view' => 'ดูข้อมูล',
+    'add_new' => 'เพิ่มผู้อนุมัติ',
+    'is_person' => 'ระบุเป็นบุคคล',
+    'user' => 'ผู้ใช้งาน',
+    'all_person' => 'ทุกคน',
+
+    'config_type_' . ConfigApproveTypeEnum::PURCHASE_REQUISITION => 'ใบขอราคา / ใบขอซื้อรถ',
+    'config_type_' . ConfigApproveTypeEnum::PURCHASE_ORDER => 'ใบสั่งซื้อรถ',
+    'config_type_' . ConfigApproveTypeEnum::LT_SPEC_ACCESSORY => 'สเปครถและอุปกรณ์',
+    'config_type_' . ConfigApproveTypeEnum::LT_QUOTATION_AFFILIATED => 'ใบเสนอราคาประเภทเช่ายาว ในเครือ',
+    'config_type_' . ConfigApproveTypeEnum::LT_QUOTATION_UNAFFILIATED => 'ใบเสนอราคาประเภทเช่ายาว นอกเครือ',
+    'config_type_' . ConfigApproveTypeEnum::EQUIPMENT_ORDER => 'รายการสั่งซื้ออุปกรณ์',
+    'config_type_' . ConfigApproveTypeEnum::REPLACEMENT_CAR => 'งานรถทดแทน',
+    'config_type_' . ConfigApproveTypeEnum::BORROW_CAR => 'งานยืมรถ',
+    'config_type_' . ConfigApproveTypeEnum::REPAIR_ORDER => 'ใบเสนอราคาสั่งซ่อม',
+    'config_type_' . ConfigApproveTypeEnum::ACCIDENT_REPAIR_ORDER => 'รายการซ่อม',
+    'config_type_' . ConfigApproveTypeEnum::ACCIDENT_REPAIR_ORDER_SHEET => 'ใบสั่งซ่อม',
+    'config_type_' . ConfigApproveTypeEnum::ACCIDENT_REPAIR_ORDER_SHEET_TTL => 'ใบสั่งซ่อม / Total Loss',
+    'config_type_' . ConfigApproveTypeEnum::SELLING_PRICE => 'ทำราคาขายรถล่วงหน้า',
+    'config_type_' . ConfigApproveTypeEnum::FINANCE_REQUEST => 'ไฟแนนซ์',
+    'config_type_' . ConfigApproveTypeEnum::LITIGATION => 'งานคดีความ',
+    'config_type_' . ConfigApproveTypeEnum::COMPENSATION => 'งานเรียกร้องค่าขาดประโยชน์',
+    'approver' => 'ผู้อนุมัติ',
+    'approve_datetime' => 'วันเวลาที่อนุมัติ',
+];

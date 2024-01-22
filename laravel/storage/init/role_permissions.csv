@@ -1,0 +1,418 @@
+ลำดับ,Role_Name,Permission,เมนู
+1,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_short_term_rental,งานเช่าระยะสั้น
+2,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,manage_short_term_rental,งานเช่าระยะสั้น
+3,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_quotation,ใบเสนอราคา
+4,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,manage_quotation,ใบเสนอราคา
+5,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_operation,งาน Operation
+6,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,manage_operation,งาน Operation
+7,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_receipt,ใบเสร็จรับเงิน
+8,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_driving_job,งานขับรถทั้งหมด
+9,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+10,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,manage_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+11,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_car_inspection,งานตรวจรถทั้งหมด
+12,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,manage_car_inspection,งานตรวจรถทั้งหมด
+13,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,view_short_term_condition_quotation,เงื่อนไขใบเสนอราคางานเช่าสั้น
+14,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,manage_short_term_condition_quotation,เงื่อนไขใบเสนอราคางานเช่าสั้น
+15,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,view_long_term_rental,งานเช่าระยะยาว
+16,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,manage_long_term_rental,งานเช่าระยะยาว
+17,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,view_long_term_rental_spec_check_car,เช็กรถ
+18,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,manage_long_term_rental_spec_check_car,เช็กรถ
+19,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,view_long_term_rental_compare_price,เปรียบเทียบราคา
+20,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,manage_long_term_rental_compare_price,เปรียบเทียบราคา
+21,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,view_long_term_rental_quotation,จัดทำราคาเช่าระยะยาว
+22,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,manage_long_term_rental_quotation,จัดทำราคาเช่าระยะยาว
+23,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,view_quotation,ใบเสนอราคา
+24,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,manage_quotation,ใบเสนอราคา
+25,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,view_contract_check_and_edit,ดูหรือขอแก้ไขข้อมูลสัญญาเช่า
+26,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,view_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+27,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,manage_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+28,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,view_transport,งานรถขนส่ง
+29,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,manage_transport,งานรถขนส่ง
+30,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,view_receipt,ใบเสร็จรับเงิน
+31,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,view_invoice,สร้างใบแจ้งหนี้อื่น ๆ 
+32,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,manage_invoice,สร้างใบแจ้งหนี้อื่น ๆ 
+33,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,view_transport_invoice,ใบแจ้งหนี้รถขนส่ง
+34,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,manage_transport_invoice,ใบแจ้งหนี้รถขนส่ง
+35,พนักงานฝ่าย AMO / ฝ่ายควบคุมการเบิกจ่ายเงินสดย่อย,view_record_petty_cash,บันทึกเบิกเงินสดย่อย
+36,พนักงานฝ่าย AMO / ฝ่ายควบคุมการเบิกจ่ายเงินสดย่อย,manage_record_petty_cash,บันทึกเบิกเงินสดย่อย
+37,พนักงานฝ่าย BMD / Branch Management,view_short_term_rental,งานเช่าระยะสั้น
+38,พนักงานฝ่าย BMD / Branch Management,manage_short_term_rental,งานเช่าระยะสั้น
+39,พนักงานฝ่าย BMD / Branch Management,view_quotation,ใบเสนอราคา
+40,พนักงานฝ่าย BMD / Branch Management,manage_quotation,ใบเสนอราคา
+41,พนักงานฝ่าย BMD / Branch Management,view_accident_order,ใบสั่งซ่อมอุบัติเหตุ
+42,พนักงานฝ่าย BMD / Branch Management,manage_accident_order,ใบสั่งซ่อมอุบัติเหตุ
+43,พนักงานฝ่าย BMD / Branch Management,view_accident_inform_sheet,ใบแจ้งอุบัติเหตุ
+44,พนักงานฝ่าย BMD / Branch Management,manage_accident_inform_sheet,ใบแจ้งอุบัติเหตุ
+45,พนักงานฝ่าย BMD / Branch Management,view_accident_order_approve,ติดตามงานซ่อม
+46,พนักงานฝ่าย BMD / Branch Management,manage_accident_order_approve,ติดตามงานซ่อม
+47,พนักงานฝ่าย BMD / Branch Management,view_receipt,ใบเสร็จรับเงิน
+48,พนักงานฝ่าย BMD / Branch Management,view_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+49,พนักงานฝ่าย BMD / Branch Management,manage_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+50,พนักงานฝ่าย CMD / Long-term Rental,view_long_term_rental,งานเช่าระยะยาว
+51,พนักงานฝ่าย CMD / Long-term Rental,manage_long_term_rental,งานเช่าระยะยาว
+52,พนักงานฝ่าย CMD / Long-term Rental,view_long_term_rental_spec_check_car,เช็กรถ
+53,พนักงานฝ่าย CMD / Long-term Rental,manage_long_term_rental_spec_check_car,เช็กรถ
+54,พนักงานฝ่าย CMD / Long-term Rental,view_long_term_rental_compare_price,เปรียบเทียบราคา
+55,พนักงานฝ่าย CMD / Long-term Rental,manage_long_term_rental_compare_price,เปรียบเทียบราคา
+56,พนักงานฝ่าย CMD / Long-term Rental,view_long_term_rental_quotation,จัดทำราคาเช่าระยะยาว
+57,พนักงานฝ่าย CMD / Long-term Rental,manage_long_term_rental_quotation,จัดทำราคาเช่าระยะยาว
+58,พนักงานฝ่าย CMD / Long-term Rental,view_quotation,ใบเสนอราคา
+59,พนักงานฝ่าย CMD / Long-term Rental,manage_quotation,ใบเสนอราคา
+60,พนักงานฝ่าย CMD / Long-term Rental,view_contract_check_and_edit,ดูหรือขอแก้ไขข้อมูลสัญญาเช่า
+61,พนักงานฝ่าย CMD / Long-term Rental,view_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+62,พนักงานฝ่าย CMD / Long-term Rental,manage_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+63,พนักงานฝ่าย CMD / Shot-term Rental,view_short_term_rental,งานเช่าระยะสั้น
+64,พนักงานฝ่าย CMD / Shot-term Rental,manage_short_term_rental,งานเช่าระยะสั้น
+65,พนักงานฝ่าย CMD / Shot-term Rental,view_car_service_type,จัดการรถเช่าระยะสั้น
+66,พนักงานฝ่าย CMD / Shot-term Rental,manage_car_service_type,จัดการรถเช่าระยะสั้น
+67,พนักงานฝ่าย CMD / Shot-term Rental,view_service_type,ประเภทบริการ
+68,พนักงานฝ่าย CMD / Shot-term Rental,manage_service_type,ประเภทบริการ
+69,พนักงานฝ่าย CMD / Shot-term Rental,view_location_group,กลุ่มสถานที่ 
+70,พนักงานฝ่าย CMD / Shot-term Rental,manage_location_group,กลุ่มสถานที่ 
+71,พนักงานฝ่าย CMD / Shot-term Rental,view_location,สถานที่
+72,พนักงานฝ่าย CMD / Shot-term Rental,manage_location,สถานที่
+73,พนักงานฝ่าย CMD / Shot-term Rental,view_product,แพ็กเกจ
+74,พนักงานฝ่าย CMD / Shot-term Rental,manage_product,แพ็กเกจ
+75,พนักงานฝ่าย CMD / Shot-term Rental,view_product_additional,ออฟชั่นเสริม
+76,พนักงานฝ่าย CMD / Shot-term Rental,manage_product_additional,ออฟชั่นเสริม
+77,พนักงานฝ่าย CMD / Shot-term Rental,view_promotion,จัดการส่วนลด
+78,พนักงานฝ่าย CMD / Shot-term Rental,manage_promotion,จัดการส่วนลด
+79,พนักงานฝ่าย CMD / Shot-term Rental,view_quotation,ใบเสนอราคา
+80,พนักงานฝ่าย CMD / Shot-term Rental,manage_quotation,ใบเสนอราคา
+81,พนักงานฝ่าย CMD / Shot-term Rental,view_receipt,ใบเสร็จรับเงิน
+82,พนักงานฝ่าย CMD / Shot-term Rental,view_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+83,พนักงานฝ่าย CMD / Shot-term Rental,manage_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+84,พนักงานฝ่าย CMD / Shot-term Rental,view_short_term_condition_quotation,เงื่อนไขใบเสนอราคางานเช่าสั้น
+85,พนักงานฝ่าย CMD / Shot-term Rental,manage_short_term_condition_quotation,เงื่อนไขใบเสนอราคางานเช่าสั้น
+86,พนักงานฝ่าย CSD / Customer Service & Corporate,view_accident_inform_sheet,แจ้งอุบัติเหตุรถยนต์
+87,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_accident_inform_sheet,แจ้งอุบัติเหตุรถยนต์
+88,พนักงานฝ่าย CSD / Customer Service & Corporate,view_call_center_follow_up_repair,ติดตามงานซ่อมรถยนต์
+89,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_call_center_follow_up_repair,ติดตามงานซ่อมรถยนต์
+90,พนักงานฝ่าย CSD / Customer Service & Corporate,view_call_center_repair,แจ้งซ่อมเช็คระยะ/ซ่อมทั่วไป
+91,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_call_center_repair,แจ้งซ่อมเช็คระยะ/ซ่อมทั่วไป
+92,พนักงานฝ่าย CSD / Customer Service & Corporate,view_call_center_repair_order,ออกใบสั่งซ่อมเช็คระยะ
+93,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_call_center_repair_order,ออกใบสั่งซ่อมเช็คระยะ
+94,พนักงานฝ่าย CSD / Customer Service & Corporate,view_check_distance_notice,รายการแจ้งเตือนเช็กระยะ
+95,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_check_distance_notice,รายการแจ้งเตือนเช็กระยะ
+96,พนักงานฝ่าย CSD / Customer Service & Corporate,view_car_park_transfer,ใบงานนำรถเข้า/ออก
+97,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_car_park_transfer,ใบงานนำรถเข้า/ออก
+98,พนักงานฝ่าย CSD / Customer Service & Corporate,view_car_park_transfer_log,Log นำรถเข้า/ออก
+99,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_car_park_transfer_log,Log นำรถเข้า/ออก
+100,พนักงานฝ่าย CSD / Customer Service & Corporate,view_parking_zone,โซนจอดรถทั้งหมด
+101,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_parking_zone,โซนจอดรถทั้งหมด
+102,พนักงานฝ่าย CSD / Customer Service & Corporate,view_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+103,พนักงานฝ่าย CSD / Customer Service & Corporate,manage_request_change_register,ขอเปลี่ยนแปลงข้อมูลทะเบียน
+104,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_debt_collection,การติดตามหนี้
+105,พนักงานฝ่าย FAD / หน่วยงาน Collection,manage_debt_collection,การติดตามหนี้
+106,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_check_billing_date,ตรวจสอบวันวางบิล
+107,พนักงานฝ่าย FAD / หน่วยงาน Collection,manage_check_billing_date,ตรวจสอบวันวางบิล
+108,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_contract_check_and_edit,ดูหรือขอแก้ไขข้อมูลสัญญาเช่า
+109,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_long_term_rental_invoice,ใบแจ้งหนี้เช่ายาว
+110,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_short_term_rental_invoice,ใบแจ้งหนี้เช่าสั้น
+111,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_transport_invoice,ใบแจ้งหนี้รถขนส่ง
+112,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_receipt,ใบเสร็จรับเงิน
+113,พนักงานฝ่าย FAD / หน่วยงาน Collection,view_credit_note,สร้างใบลดหนี้
+114,พนักงานฝ่าย FAD / หน่วยงานทรัพย์สิน,view_asset,สร้าง Asset รถ
+115,พนักงานฝ่าย FAD / หน่วยงานทรัพย์สิน,manage_asset,สร้าง Asset รถ
+116,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,view_sap_interface,บัญชีรายได้
+117,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,manage_sap_interface,บัญชีรายได้
+118,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,view_invoice,สร้างใบแจ้งหนี้อื่น ๆ 
+119,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,manage_invoice,สร้างใบแจ้งหนี้อื่น ๆ 
+120,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,view_long_term_rental_invoice,ใบแจ้งหนี้เช่ายาว
+121,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,manage_long_term_rental_invoice,ใบแจ้งหนี้เช่ายาว
+122,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,view_short_term_rental_invoice,ใบแจ้งหนี้เช่าสั้น
+123,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,manage_short_term_rental_invoice,ใบแจ้งหนี้เช่าสั้น
+124,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,view_transport_invoice,ใบแจ้งหนี้รถขนส่ง
+125,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,manage_transport_invoice,ใบแจ้งหนี้รถขนส่ง
+126,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,view_credit_note,สร้างใบลดหนี้
+127,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,manage_credit_note,สร้างใบลดหนี้
+128,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,view_receipt,ใบเสร็จรับเงิน
+129,พนักงานฝ่าย FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,view_create_receipt,สร้างใบเสร็จรับเงิน
+130,พนักงานฝ่าย FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,manage_create_receipt,สร้างใบเสร็จรับเงิน
+131,พนักงานฝ่าย FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,view_receipt,ใบเสร็จรับเงิน
+132,พนักงานฝ่าย FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,manage_receipt,ใบเสร็จรับเงิน
+133,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,view_sap_interface_ap,บัญชีรายจ่าย
+134,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,manage_sap_interface_ap,บัญชีรายจ่าย
+135,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,view_record_other_expenses,บันทึกค่าใช้จ่ายอื่น ๆ
+136,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,manage_record_other_expenses,บันทึกค่าใช้จ่ายอื่น ๆ
+137,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,view_record_petty_cash,บันทึกเบิกเงินสดย่อย
+138,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,manage_record_petty_cash,บันทึกเบิกเงินสดย่อย
+139,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,view_check_petty_cash,ตรวจสอบเบิกเงินสดย่อย
+140,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,manage_check_petty_cash,ตรวจสอบเบิกเงินสดย่อย
+141,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,view_finances,ไฟแนนส์รถทั้งหมด
+142,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,manage_finances,ไฟแนนส์รถทั้งหมด
+143,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,view_finance_turn_off,ปิดไฟแนนส์
+144,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,manage_finance_turn_off,ปิดไฟแนนส์
+145,พนักงานฝ่าย FOD / Finance Support,view_finance_contract,ทำสัญญาเช่าซื้อรถ
+146,พนักงานฝ่าย FOD / Finance Support,manage_finance_contract,ทำสัญญาเช่าซื้อรถ
+147,พนักงานฝ่าย FOD / Finance Support,view_finances,ไฟแนนส์รถทั้งหมด
+148,พนักงานฝ่าย FOD / Finance Support,manage_finances,ไฟแนนส์รถทั้งหมด
+149,พนักงานฝ่าย FOD / Maintenance Service Support,view_repair_order cost,ค่าใช้จ่ายใบสั่งซ่อม
+150,พนักงานฝ่าย FOD / Maintenance Service Support,manage_repair_order cost,ค่าใช้จ่ายใบสั่งซ่อม
+151,พนักงานฝ่าย FOD / Maintenance Service Support,view_repair_bill,ออกใบรับวางบิล
+152,พนักงานฝ่าย FOD / Maintenance Service Support,manage_repair_bill,ออกใบรับวางบิล
+153,พนักงานฝ่าย FMD / Feet Management,view_replacement_type_car,ประวัติรถทดแทน
+154,พนักงานฝ่าย FMD / Feet Management,manage_replacement_type_car,ประวัติรถทดแทน
+155,พนักงานฝ่าย FMD / Feet Management,view_replacement_car,งานรถทดแทนทั้งหมด
+156,พนักงานฝ่าย FMD / Feet Management,manage_replacement_car,งานรถทดแทนทั้งหมด
+157,พนักงานฝ่าย FMD / Feet Management,view_borrow_car_list,รถยืมทั้งหมด
+158,พนักงานฝ่าย FMD / Feet Management,manage_borrow_car_list,รถยืมทั้งหมด
+159,พนักงานฝ่าย FMD / Feet Management,view_borrow_car_confirm_approve,งานยืมรถ
+160,พนักงานฝ่าย FMD / Feet Management,manage_borrow_car_confirm_approve,งานยืมรถ
+161,พนักงานฝ่าย FMD / Feet Management,view_transfer_car,แจ้งโอนรถ
+162,พนักงานฝ่าย FMD / Feet Management,manage_transfer_car,แจ้งโอนรถ
+163,พนักงานฝ่าย FMD / Feet Management,view_transfer_car_receive,รับโอนรถ
+164,พนักงานฝ่าย FMD / Feet Management,manage_transfer_car_receive,รับโอนรถ
+165,พนักงานฝ่าย FMD / Feet Management,view_driving_job,งานขับรถทั้งหมด
+166,พนักงานฝ่าย FMD / Feet Management,manage_driving_job,งานขับรถทั้งหมด
+167,พนักงานฝ่าย FMD / Feet Management,view_record_driver_fee,บันทึกค่าพนักงานขับรถอื่น ๆ 
+168,พนักงานฝ่าย FMD / Feet Management,manage_record_driver_fee,บันทึกค่าพนักงานขับรถอื่น ๆ 
+169,พนักงานฝ่าย FMD / Feet Management,view_driver,พนักงานขับรถ
+170,พนักงานฝ่าย FMD / Feet Management,manage_driver,พนักงานขับรถ
+171,พนักงานฝ่าย FMD / Feet Management,view_driving_skill,ทักษะพนักงานขับรถ
+172,พนักงานฝ่าย FMD / Feet Management,manage_driving_skill,ทักษะพนักงานขับรถ
+173,พนักงานฝ่าย FMD / Feet Management,view_driver_wage_category,ประเภทรายจ่ายพนักงานขับรถ
+174,พนักงานฝ่าย FMD / Feet Management,manage_driver_wage_category,ประเภทรายจ่ายพนักงานขับรถ
+175,พนักงานฝ่าย FMD / Feet Management,view_driver_wage,รายจ่ายพนักงานขับรถ
+176,พนักงานฝ่าย FMD / Feet Management,manage_driver_wage,รายจ่ายพนักงานขับรถ
+177,พนักงานฝ่าย FMD / Feet Management,view_driver_report,รายงานรายจ่ายพนักงานขับรถ
+178,พนักงานฝ่าย FMD / Feet Management,manage_driver_report,รายงานรายจ่ายพนักงานขับรถ
+179,พนักงานฝ่าย FMD / Feet Management,view_car_park_transfer,ใบงานนำรถเข้า/ออก
+180,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_rental,งานเช่าระยะยาว
+181,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_rental,งานเช่าระยะยาว
+182,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_rental_spec_check_car,เช็กรถ
+183,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_rental_spec_check_car,เช็กรถ
+184,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_rental_compare_price,เปรียบเทียบราคา
+185,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_rental_compare_price,เปรียบเทียบราคา
+186,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_rental_quotation,จัดทำราคาเช่าระยะยาว
+187,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_rental_quotation,จัดทำราคาเช่าระยะยาว
+188,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_quotation,ใบเสนอราคา
+189,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_quotation,ใบเสนอราคา
+190,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+191,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+192,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_condition_quotation,เงื่อนไขใบเสนอราคางานเช่ายาว
+193,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_condition_quotation,เงื่อนไขใบเสนอราคางานเช่ายาว
+194,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_rental_type,ประเภทงานเช่าระยะยาว
+195,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_rental_type,ประเภทงานเช่าระยะยาว
+196,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_long_term_rental_bom,Bom รถและอุปกรณ์
+197,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_long_term_rental_bom,Bom รถและอุปกรณ์
+198,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_auction_reject_reason,เหตุผลที่ไม่ได้งานประมูล
+199,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,manage_auction_reject_reason,เหตุผลที่ไม่ได้งานประมูล
+200,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,view_contract_check_and_edit,ดูหรือขอแก้ไขข้อมูลสัญญาเช่า
+201,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_purchase_requisition,ใบขอราคา/ใบขอซื้อรถ
+202,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_purchase_requisition,ใบขอราคา/ใบขอซื้อรถ
+203,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_open_purchase_order,เปิดใบสั่งซื้อรถ
+204,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_open_purchase_order,เปิดใบสั่งซื้อรถ
+205,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_purchase_order,ใบสั่งซื้อรถ
+206,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_purchase_order,ใบสั่งซื้อรถ
+207,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_import_car,จัดการส่งมอบรถ
+208,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_import_car,จัดการส่งมอบรถ
+209,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_import_car_list,รายการส่งมอบรถ
+210,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_import_car_list,รายการส่งมอบรถ
+211,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_creditor,ข้อมูลเจ้าหนี้
+212,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_creditor,ข้อมูลเจ้าหนี้
+213,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_brand,ยี่ห้อรถยนต์
+214,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_brand,ยี่ห้อรถยนต์
+215,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_category,ประเภทรถยนต์
+216,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_category,ประเภทรถยนต์
+217,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_class,รุ่นรถยนต์
+218,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_class,รุ่นรถยนต์
+219,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_tire,ยางรถยนต์
+220,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_tire,ยางรถยนต์
+221,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_battery,แบตเตอรี่
+222,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_battery,แบตเตอรี่
+223,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_wiper,ที่ปัดน้ำฝน
+224,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_wiper,ที่ปัดน้ำฝน
+225,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_group,กลุ่มรถ
+226,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_group,กลุ่มรถ
+227,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,view_car_color,สีรถยนต์
+228,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_car_color,สีรถยนต์
+229,พนักงานฝ่าย PCD / ฝ่ายจัดเตรียมไฟแนนซ์,view_finance_request,จัดเตรียมข้อมูลไฟแนนส์
+230,พนักงานฝ่าย PCD / ฝ่ายจัดเตรียมไฟแนนซ์,manage_finance_request,จัดเตรียมข้อมูลไฟแนนส์
+231,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,view_install_equipment,ใบขอติดตั้งอุปกรณ์
+232,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,manage_install_equipment,ใบขอติดตั้งอุปกรณ์
+233,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,view_install_equipment_po,ใบสั่งซื้ออุปกรณ์
+234,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,manage_install_equipment_po,ใบสั่งซื้ออุปกรณ์
+235,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,view_accessory,อุปกรณ์เสริม
+236,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,manage_accessory,อุปกรณ์เสริม
+237,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,view_long_term_rental_specs_accessory,ตีสเปคอุปกรณ์
+238,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,manage_long_term_rental_specs_accessory,ตีสเปคอุปกรณ์
+239,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,view_register,จดทะเบียนรถใหม่
+240,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,manage_register,จดทะเบียนรถใหม่
+241,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,view_renewal_car_tax,ต่ออายุภาษีรถยนต์
+242,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,manage_renewal_car_tax,ต่ออายุภาษีรถยนต์
+243,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,view_transfer_car_ownership,โอนกรรมสิทธิ์รถยนต์
+244,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,manage_transfer_car_ownership,โอนกรรมสิทธิ์รถยนต์
+245,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,view_ticket_sign _yellow,ใบสั่งป้ายเหลือง
+246,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,manage_ticket_sign _yellow,ใบสั่งป้ายเหลือง
+247,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,view_change_register_job,เปลี่ยนแปลงข้อมูลทะเบียน
+248,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,manage_change_register_job,เปลี่ยนแปลงข้อมูลทะเบียน
+249,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,view_finances,ไฟแนนส์รถทั้งหมด
+250,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,view_gps_historical_data_alert,แจ้งข้อมูลย้อนหลัง
+251,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,manage_gps_historical_data_alert,แจ้งข้อมูลย้อนหลัง
+252,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_service_charge,สรุปค่าบริการ
+253,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_service_charge,สรุปค่าบริการ
+254,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_car,รถทั้งหมด
+255,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_car,รถทั้งหมด
+256,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_alert,แจ้งเตือน
+257,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_alert,แจ้งเตือน
+258,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_check_signal_short_term,แจ้งตรวจสอบสัญญาณ GPS Tab รถเช่าสั้น
+259,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_check_signal_short_term,แจ้งตรวจสอบสัญญาณ GPS Tab รถเช่าสั้น
+260,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_check_signal_long_term,แจ้งตรวจสอบสัญญาณ GPS Tab รถเช่ายาว
+261,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_check_signal_long_term,แจ้งตรวจสอบสัญญาณ GPS Tab รถเช่ายาว
+262,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_check_signal_replacement,แจ้งตรวจสอบสัญญาณ GPS Tab รถทดแทน
+263,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_check_signal_replacement,แจ้งตรวจสอบสัญญาณ GPS Tab รถทดแทน
+264,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_check_signal_kratos,แจ้งตรวจสอบสัญญาณ GPS Tab Kartos
+265,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_check_signal_kratos,แจ้งตรวจสอบสัญญาณ GPS Tab Kartos
+266,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_check_signal_short_term_branch,แจ้งตรวจสอบสัญญาณ GPS Tab งานเช่าสั้นสาขา
+267,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_check_signal_short_term_branch,แจ้งตรวจสอบสัญญาณ GPS Tab งานเช่าสั้นสาขา
+268,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_remove_stop_signal_job,งานถอดและหยุดสัญญาณ GPS Tab งานถอดและหยุดสัญญาณ
+269,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_remove_stop_signal_job,งานถอดและหยุดสัญญาณ GPS Tab งานถอดและหยุดสัญญาณ
+270,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_remove_signal_job,งานถอดและหยุดสัญญาณ GPS Tab งานถอด
+271,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_remove_signal_job,งานถอดและหยุดสัญญาณ GPS Tab งานถอด
+272,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_stop_signal_job,งานถอดและหยุดสัญญาณ GPS Tab งานหยุดสัญญาณ
+273,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_stop_signal_job,งานถอดและหยุดสัญญาณ GPS Tab งานหยุดสัญญาณ
+274,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,view_gps_historical_data_job,งานขอข้อมูลย้อนหลัง
+275,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,manage_gps_historical_data_job,งานขอข้อมูลย้อนหลัง
+276,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,view_selling_car,รถรอส่งขายทั้งหมด/ทำราคาขายล่วงหน้า Tab รถรอส่งขายทั้งหมด
+277,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,manage_selling_car,รถรอส่งขายทั้งหมด/ทำราคาขายล่วงหน้า Tab รถรอส่งขายทั้งหมด
+278,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,view_selling_price,รถรอส่งขายทั้งหมด/ทำราคาขายล่วงหน้า Tab ทำราคาขายล่วงหน้า
+279,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,manage_selling_price,รถรอส่งขายทั้งหมด/ทำราคาขายล่วงหน้า Tab ทำราคาขายล่วงหน้า
+280,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,view_car_auction,จัดการรถประมูลขาย
+281,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,manage_car_auction,จัดการรถประมูลขาย
+282,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,view_auction_place,สถานที่ประมูล
+283,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,manage_auction_place,สถานที่ประมูล
+284,พนักงานฝ่าย QMD / Quality Assurance,view_car_inspection,งานตรวจรถทั้งหมด
+285,พนักงานฝ่าย QMD / Quality Assurance,manage_car_inspection,งานตรวจรถทั้งหมด
+286,พนักงานฝ่าย QMD / Quality Assurance,view_config_car_inspection,ตั้งค่าใบตรวจรถ
+287,พนักงานฝ่าย QMD / Quality Assurance,manage_config_car_inspection,ตั้งค่าใบตรวจรถ
+288,พนักงานฝ่าย QMD / Quality Assurance,view_config_inspection_flow,ตั้งค่าประเภทงานตรวจ
+289,พนักงานฝ่าย QMD / Quality Assurance,manage_config_inspection_flow,ตั้งค่าประเภทงานตรวจ
+290,พนักงานฝ่าย QMD / Quality Assurance,view_car,คลังรถทั้งหมด
+291,พนักงานฝ่าย QMD / Quality Assurance,manage_car,คลังรถทั้งหมด
+292,พนักงานฝ่าย QMD / Quality Assurance,view_long_term_rental_spec,ตีสเปครถ
+293,พนักงานฝ่าย QMD / Quality Assurance,manage_long_term_rental_spec,ตีสเปครถ
+294,พนักงานฝ่าย QMD / Quality Assurance,view_gps_historical_data_alert,แจ้งข้อมูลย้อนหลัง
+295,พนักงานฝ่าย QMD / Quality Assurance,manage_gps_historical_data_alert,แจ้งข้อมูลย้อนหลัง
+296,พนักงานฝ่าย QMD / Maintenance,view_repair,ใบแจ้งซ่อม
+297,พนักงานฝ่าย QMD / Maintenance,manage_repair,ใบแจ้งซ่อม
+298,พนักงานฝ่าย QMD / Maintenance,view_repair_order,ใบสั่งซ่อม
+299,พนักงานฝ่าย QMD / Maintenance,manage_repair_order,ใบสั่งซ่อม
+300,พนักงานฝ่าย QMD / Maintenance,view_check_distance_notice,รายการแจ้งเตือนเช็กระยะ
+301,พนักงานฝ่าย QMD / Maintenance,manage_check_distance_notice,รายการแจ้งเตือนเช็กระยะ
+302,พนักงานฝ่าย QMD / Maintenance,view_creditor,ข้อมูลเจ้าหนี้
+303,พนักงานฝ่าย QMD / Maintenance,manage_creditor,ข้อมูลเจ้าหนี้
+304,พนักงานฝ่าย QMD / Maintenance,view_check_distance,ข้อมูลรายการเช็กระยะ
+305,พนักงานฝ่าย QMD / Maintenance,manage_check_distance,ข้อมูลรายการเช็กระยะ
+306,พนักงานฝ่าย QMD / Maintenance,view_repair_list,รายการซ่อม
+307,พนักงานฝ่าย QMD / Maintenance,manage_repair_list,รายการซ่อม
+308,พนักงานฝ่าย QMD / Maintenance,view_condition_repair_service,เงื่อนไขส่งซ่อมศูนย์บริการ
+309,พนักงานฝ่าย QMD / Maintenance,manage_condition_repair_service,เงื่อนไขส่งซ่อมศูนย์บริการ
+310,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,view_litigation,งานคดีความ
+311,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,manage_litigation,งานคดีความ
+312,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,view_traffic_ticket,ใบสั่งจราจร
+313,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,manage_traffic_ticket,ใบสั่งจราจร
+314,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,view_m_flow,M-Flow
+315,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,manage_m_flow,M-Flow
+316,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,view_loss_of_benefit,เรียกร้องค่าขาดประโยชน์
+317,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,manage_loss_of_benefit,เรียกร้องค่าขาดประโยชน์
+318,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_request_premium,ขอค่าเบี้ยประกัน
+319,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_request_premium,ขอค่าเบี้ยประกัน
+320,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_insurance_car,งาน พรบ. ประกันภัยทั้งหมด
+321,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_insurance_car,งาน พรบ. ประกันภัยทั้งหมด
+322,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_CMI,จัดทำพรบ.รถใหม่
+323,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_CMI,จัดทำพรบ.รถใหม่
+324,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_insurance_car_cmi_renew,ต่ออายุ พรบ.
+325,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_insurance_car_cmi_renew,ต่ออายุ พรบ.
+326,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_cancel_CMI,ยกเลิก พรบ.
+327,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_cancel_CMI,ยกเลิก พรบ.
+328,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_VMI,จัดทำประกันรถใหม่
+329,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_VMI,จัดทำประกันรถใหม่
+330,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_insurance_car_vmi_renew,ต่ออายุประกัน
+331,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_insurance_car_vmi_renew,ต่ออายุประกัน
+332,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_cancel_VMI,ยกเลิกประกัน
+333,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_cancel_VMI,ยกเลิกประกัน
+334,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_transportation_insurance,ประกันรถขนส่ง
+335,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_transportation_insurance,ประกันรถขนส่ง
+336,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_insurance_deduct,ค่าเสียหายส่วนแรก
+337,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_insurance_deduct,ค่าเสียหายส่วนแรก
+338,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_insurance_loss_ratio,อัตราค่าสินไหมทดแทน
+339,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_insurance_loss_ratio,อัตราค่าสินไหมทดแทน
+340,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,view_insurance_companies,ข้อมูลบริษัทประกัน
+341,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,manage_insurance_companies,ข้อมูลบริษัทประกัน
+342,พนักงานฝ่าย RMD / ฝ่ายสัญญา,view_contract_check_credit_job,งานตรวจสอบเครดิตลูกค้า
+343,พนักงานฝ่าย RMD / ฝ่ายสัญญา,manage_contract_check_credit_job,งานตรวจสอบเครดิตลูกค้า
+344,พนักงานฝ่าย RMD / ฝ่ายสัญญา,view_contract_all_list,สัญญาทั้งหมด
+345,พนักงานฝ่าย RMD / ฝ่ายสัญญา,manage_contract_all_list,สัญญาทั้งหมด
+346,พนักงานฝ่าย RMD / ฝ่ายสัญญา,view_contract_master_data_category,ประเภทและเงื่อนไขสัญญา
+347,พนักงานฝ่าย RMD / ฝ่ายสัญญา,manage_contract_master_data_category,ประเภทและเงื่อนไขสัญญา
+348,พนักงานฝ่าย RMD / อุบัติเหตุ,view_accident_order,ใบสั่งซ่อมอุบัติเหตุ
+349,พนักงานฝ่าย RMD / อุบัติเหตุ,manage_accident_order,ใบสั่งซ่อมอุบัติเหตุ
+350,พนักงานฝ่าย RMD / อุบัติเหตุ,view_accident_inform_sheet,ใบแจ้งอุบัติเหตุ
+351,พนักงานฝ่าย RMD / อุบัติเหตุ,manage_accident_inform_sheet,ใบแจ้งอุบัติเหตุ
+352,พนักงานฝ่าย RMD / อุบัติเหตุ,view_accident_order_approve,ติดตามงานซ่อม
+353,พนักงานฝ่าย RMD / อุบัติเหตุ,manage_accident_order_approve,ติดตามงานซ่อม
+354,พนักงานฝ่าย RMD / อุบัติเหตุ,view_gps_historical_data_alert,แจ้งข้อมูลย้อนหลัง
+355,พนักงานฝ่าย RMD / อุบัติเหตุ,manage_gps_historical_data_alert,แจ้งข้อมูลย้อนหลัง
+356,พนักงานฝ่าย RMD / อุบัติเหตุ,view_garage,อู่
+357,พนักงานฝ่าย RMD / อุบัติเหตุ,manage_garage,อู่
+358,หัวหน้าฝ่าย RMD / อุบัติเหตุ,view_accident_order_approve,อนุมัติรายการซ่อม
+359,หัวหน้าฝ่าย RMD / อุบัติเหตุ,manage_accident_order_approve,อนุมัติรายการซ่อม
+360,หัวหน้าฝ่าย RMD / อุบัติเหตุ,view_accident_order_sheet_approve,อนุมัติใบสั่งซ่อม
+361,หัวหน้าฝ่าย RMD / อุบัติเหตุ,manage_accident_order_sheet_approve,อนุมัติใบสั่งซ่อม
+362,หัวหน้าฝ่าย RMD / ฝ่ายประกันภัย,view_pay_premium_approve,อนุมัติส่งค่าเบี้ยให้บัญชี
+363,หัวหน้าฝ่าย RMD / ฝ่ายประกันภัย,manage_pay_premium_approve,อนุมัติส่งค่าเบี้ยให้บัญชี
+364,หัวหน้าฝ่าย RMD / ฝ่ายสัญญา,view_contract_check_credit_approve,อนุมัติตรวจสอบเครดิตลูกค้าใหม่
+365,หัวหน้าฝ่าย RMD / ฝ่ายสัญญา,manage_contract_check_credit_approve,อนุมัติตรวจสอบเครดิตลูกค้าใหม่
+366,หัวหน้าฝ่าย RMD / ฝ่ายกฏหมาย,view_litigation_approve,อนุมัติปิดงานคดีความ
+367,หัวหน้าฝ่าย RMD / ฝ่ายกฏหมาย,manage_litigation_approve,อนุมัติปิดงานคดีความ
+368,หัวหน้าแผนก Risk Management,view_accident_order_approve,อนุมัติรายการซ่อม
+369,หัวหน้าแผนก Risk Management,manage_accident_order_approve,อนุมัติรายการซ่อม
+370,หัวหน้าแผนก Risk Management,view_accident_order_sheet_approve,อนุมัติใบสั่งซ่อม
+371,หัวหน้าแผนก Risk Management,manage_accident_order_sheet_approve,อนุมัติใบสั่งซ่อม
+372,หัวหน้าแผนก Risk Management,view_pay_premium_approve,อนุมัติส่งค่าเบี้ยให้บัญชี
+373,หัวหน้าแผนก Risk Management,manage_pay_premium_approve,อนุมัติส่งค่าเบี้ยให้บัญชี
+374,หัวหน้าแผนก Risk Management,view_contract_check_credit_approve,อนุมัติตรวจสอบเครดิตลูกค้าใหม่
+375,หัวหน้าแผนก Risk Management,manage_contract_check_credit_approve,อนุมัติตรวจสอบเครดิตลูกค้าใหม่
+376,หัวหน้าแผนก Risk Management,view_litigation_approve,อนุมัติปิดงานคดีความ
+377,หัวหน้าแผนก Risk Management,manage_litigation_approve,อนุมัติปิดงานคดีความ
+378,หัวหน้าแผนก Risk Management,view_accident_order_sheet_ttl_approve,อนุมัติใบสั่งซ่อม/ Total Loss
+379,หัวหน้าแผนก Risk Management,manage_accident_order_sheet_ttl_approve,อนุมัติใบสั่งซ่อม/ Total Loss
+380,หัวหน้าฝ่าย PCD / ฝ่ายสั่งซื้อ,view_purchase_requisition_approve,อนุมัติใบขอซื้อรถ
+381,หัวหน้าฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_purchase_requisition_approve,อนุมัติใบขอซื้อรถ
+382,หัวหน้าฝ่าย PCD / ฝ่ายสั่งซื้อ,view_purchase_order_approve,อนุมัติใบสั่งซื้อรถ
+383,หัวหน้าฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_purchase_order_approve,อนุมัติใบสั่งซื้อรถ
+384,หัวหน้าฝ่าย PCD / ฝ่ายสั่งซื้อ,view_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+385,หัวหน้าฝ่าย PCD / ฝ่ายสั่งซื้อ,manage_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+386,หัวหน้าฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,view_install_equipment_po_approve,อนุมัติใบสั่งซื้ออุปกรณ์
+387,หัวหน้าฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,manage_install_equipment_po_approve,อนุมัติใบสั่งซื้ออุปกรณ์
+388,หัวหน้าฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,view_selling_price_approve,อนุมัติการทำราคาขายรถล่วงหน้า
+389,หัวหน้าฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,manage_selling_price_approve,อนุมัติการทำราคาขายรถล่วงหน้า
+390,หัวหน้าแผนก Purchase & Resale,view_purchase_requisition_approve,อนุมัติใบขอซื้อรถ
+391,หัวหน้าแผนก Purchase & Resale,manage_purchase_requisition_approve,อนุมัติใบขอซื้อรถ
+392,หัวหน้าแผนก Purchase & Resale,view_purchase_order_approve,อนุมัติใบสั่งซื้อรถ
+393,หัวหน้าแผนก Purchase & Resale,manage_purchase_order_approve,อนุมัติใบสั่งซื้อรถ
+394,หัวหน้าแผนก Purchase & Resale,view_install_equipment_po_approve,อนุมัติใบสั่งซื้ออุปกรณ์
+395,หัวหน้าแผนก Purchase & Resale,manage_install_equipment_po_approve,อนุมัติใบสั่งซื้ออุปกรณ์
+396,หัวหน้าแผนก Purchase & Resale,view_selling_price_approve,อนุมัติการทำราคาขายรถล่วงหน้า
+397,หัวหน้าแผนก Purchase & Resale,manage_selling_price_approve,อนุมัติการทำราคาขายรถล่วงหน้า
+398,หัวหน้าแผนก Purchase & Resale,view_quotation_approve,อนุมัติใบเสนอราคา
+399,หัวหน้าแผนก Purchase & Resale,manage_quotation_approve,อนุมัติใบเสนอราคา
+400,หัวหน้าแผนก Purchase & Resale,view_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+401,หัวหน้าแผนก Purchase & Resale,manage_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+402,หัวหน้าฝ่าย FMD / Feet Management,view_replacement_car_approve,อนุมัติรถทดแทน
+403,หัวหน้าฝ่าย FMD / Feet Management,manage_replacement_car_approve,อนุมัติรถทดแทน
+404,หัวหน้าฝ่าย FMD / Feet Management,view_borrow_car_approve,อนุมัติการยืมรถ
+405,หัวหน้าฝ่าย FMD / Feet Management,manage_borrow_car_approve,อนุมัติการยืมรถ
+406,หัวหน้าแผนก Fleet Management,view_replacement_car_approve,อนุมัติรถทดแทน
+407,หัวหน้าแผนก Fleet Management,manage_replacement_car_approve,อนุมัติรถทดแทน
+408,หัวหน้าแผนก Fleet Management,view_borrow_car_approve,อนุมัติการยืมรถ
+409,หัวหน้าแผนก Fleet Management,manage_borrow_car_approve,อนุมัติการยืมรถ
+410,หัวหน้าฝ่าย QMD / Quality Assurance,view_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+411,หัวหน้าฝ่าย QMD / Quality Assurance,manage_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+412,หัวหน้าฝ่าย QMD / Maintenance,view_repair_quotation_approve,อนุมัติใบเสนอราคาสั่งซ่อม
+413,หัวหน้าฝ่าย QMD / Maintenance,manage_repair_quotation_approve,อนุมัติใบเสนอราคาสั่งซ่อม
+414,หัวหน้าแผนก Quality Assurance & Maintenance,view_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+415,หัวหน้าแผนก Quality Assurance & Maintenance,manage_long_term_rental_spec_approve,อนุมัติสเปครถและอุปกรณ์
+416,หัวหน้าแผนก Quality Assurance & Maintenance,view_repair_quotation_approve,อนุมัติใบเสนอราคาสั่งซ่อม
+417,หัวหน้าแผนก Quality Assurance & Maintenance,manage_repair_quotation_approve,อนุมัติใบเสนอราคาสั่งซ่อม

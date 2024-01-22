@@ -1,0 +1,107 @@
+$tls-primary: $blue;
+
+.dropdown-menu {
+    &.dropdown-menu-lg,
+    &.dropdown-menu-xl,
+    &.dropdown-menu-xxl {
+        min-width: 360px;
+        background-color: $tls-table-striped-bg;
+        border: 1px solid $tls-border-color;
+
+        .form-check {
+            display: inline-block;
+        }
+        .form-block .form-check-label {
+            padding: 4px 14px !important;
+            border-radius: 99px;
+            font-size: 14px;
+            background-color: #e5edfe;
+            color: $tls-primary;
+            border: none;
+            font-weight: 300;
+        }
+        .form-block .form-check-input:checked ~ .form-check-label {
+            &::before {
+                display: none !important;
+            }
+
+            background-color: $tls-primary;
+            color: #fff;
+        }
+
+        .dot-unread {
+            font-size: 30px;
+            color: $tls-primary;
+        }
+        .noti-item {
+            margin-left: 16px;
+            margin-right: 16px;
+            background-color: #fff;
+            border-radius: 6px;
+            margin-bottom: 14px;
+
+            a:hover {
+                background-color: #fff;
+            }
+
+            &.noti-read {
+                display: none;
+            }
+
+            .noti-title {
+                font-size: 16px;
+                line-height: 18px;
+                font-weight: 400;
+                color: #1e2a3b;
+                margin-bottom: 6px;
+            }
+
+            .noti-description {
+                font-size: 14px;
+                line-height: 18px;
+                font-weight: 300;
+                margin-bottom: 6px;
+                color: $tls-body-font-02-color;
+            }
+
+            .noti-timeago {
+                font-size: 12px;
+                line-height: 16px;
+                font-weight: 400;
+                color: $tls-primary;
+            }
+
+            &.noti-read {
+                .noti-timeago {
+                    color: $tls-body-font-02-color;
+                }
+            }
+        }
+
+        #my-notifications {
+            max-height: 600px;
+            overflow-x: auto;
+        }
+
+        /* ===== Scrollbar CSS ===== */
+        /* Firefox */
+        #my-notifications {
+            scrollbar-width: auto;
+            scrollbar-color: #dbdbdb #ffffff;
+
+            &::-webkit-scrollbar {
+                width: 10px;
+            }
+
+            &::-webkit-scrollbar-track {
+                background: $tls-table-striped-bg;
+            }
+
+            &::-webkit-scrollbar-thumb {
+                background-color: #dbdbdb;
+                border-radius: 10px;
+                border: 3px solid $tls-table-striped-bg;
+            }
+        }
+    }
+}

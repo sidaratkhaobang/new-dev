@@ -1,0 +1,352 @@
+﻿"id","Code","Color","Active"
+1,,เทา,1
+2,,ขาว ดำ น้ำตาล,1
+3,,ดำ,1
+4,,ขาว-ฟ้า,1
+5,,ขาว แดง ฟ้า เหลือง,1
+6,,น้ำตาล-เทา,1
+7,,น้ำตาลเทา,1
+8,,เหลือง,1
+9,,เทา-ดำ,1
+10,,น้ำตาล,1
+11,,ขาว-น้ำตาล,1
+12,,แดง,1
+13,,น้ำเงิน-น้ำตาล,1
+14,"040--",ขาว,1
+15,,น้ำเงิน,1
+16,,ม่วง,1
+17,,ฟ้า,1
+18,,ชาว,0
+19,,เขียว,1
+20,,ดำ-เทา,1
+21,,น้ำเงิน-เทา,1
+22,,น้ำตาล-ขาว,1
+23,,เทา-เทา,1
+24,"0000",ไม่ทราบข้อมูล,0
+25,B-538M,Bluish Silver Metallic (B-538M),1
+26,B-92P,Nighthawk Black Pearl (B-92P),1
+27,"070",White Pearl Crystal 070,1
+28,NH-630M,Silver Storn Metallic (NH-630M),1
+29,NH-700M,Alabaster Silver Metallic (NH-700M),1
+30,"1D4",Silver Metallic 1D4,1
+31,"1F8",Medium Silver Metallic 1F8,1
+32,"209",Black Mica 209,1
+33,"3P1",Red Mica Metallic 3P1,1
+34,"4R0",Beige Metallic 4R0,1
+35,"8R3",Greyish Blue Metallic 8R3,1
+36,NH636,Brilliant White Pearl,0
+37,NH-737M,Polished Metal Metallic (NH-737M),1
+38,YR-574M,Bold Beige Metallic (YR-574M),1
+39,"472",Oyster Grey Pearl 472,1
+40,"058--",ขาว,1
+41,"1E7--",Silver,1
+42,NH-663M,Satetellite Silver Metallic (NH-663M),1
+43,YR-574M,.ทองโบลด์เบจ,0
+44,ดำ,Midnight,1
+45,"197",Obsidian Black 197,1
+46,YR-574M,ทองโบลด์เบจ,0
+47,"1",ไม่มีข้อมูล,1
+48,NH-636P,Brilliant White Pearl (NH-636P),1
+49,NH-578,Taffeta White (NH-578),1
+50,A66,Cool Silver (M) A66,1
+51,S18,Platinum Beige (M) S18,1
+52,A02,Eisen Gray Mica (P) A02,1
+53,X08,Pyreness Black (P) X08,1
+54,S15,Glaire Beige (M) S15,1
+55,A39,Medium Gray Mica (M) A39,1
+56,"1C0",Silver Metallic 1C0,1
+57,"040",Super White II 040,1
+58,"4P9",Beige Metallic 4P9,1
+59,"1E9",Dark Gray Mica Metallic 1E9,1
+60,"614",Ice White 614,1
+61,"3Q2",Dark Red Mica Metallic 3Q2,1
+62,"2JZ",White Pear Crysta 070& Gold Metallic 593,1
+63,"1E7",Silver Mica Metallic 1E7,1
+64,"058",White 058,1
+65,"368",Flint Grey 368,1
+66,"723",Cubanite Silver 723,1
+67,"775",Iridium Silver 775,1
+68,"650",Calcite White 650,1
+69,"426",Silver Metallic 426,1
+70,"452",Black Sapphire Metallic 452,1
+71,"473",Shimmer Gold  Pearl 473,1
+72,"477",Electric Siver Metallic 477,1
+73,"487",Ember Black Metallic 487,1
+74,A08,Silver Grey  A08,1
+75,"475",Black Sapphire 475,1
+76,"354",Titanium Silver 354,1
+77,Z4Z4,Black Metallic  Z4Z4,1
+78,"3P3P",Green Metallic   3P3P,1
+79,"8E",Silver Metallic  8E,1
+80,D1D1,Gold Metallic  D1D1,1
+81,M3M3,Blue Metallic  M3M3,1
+82,"587",Champagne Mica Metallic 587,1
+83,"1E7A",Silver Mica Metallic 1E7,0
+84,"587-",Champaitn,0
+85,-,เทาเข้ม,1
+86,"8P4",Dark blue Mica Metallic 8P4,1
+87,"202",Black 202,1
+88,"8N8",Blue Mica 8N8,1
+89,"1G3",Gray Metallic 1G3,1
+90,"8T7",Blue  Mica Metallic 8T7,1
+91,"1F7",Silver Metallic 1F7,1
+92,"9154",Carbon Black Metallic 9154,1
+93,"9744",Brilliant Silver Metallic 9744,1
+94,"6S3",Dark Green Mica Metallic 6S3,1
+95,W54,W 54 White Pearl,1
+96,BLACK,Black,1
+97,NH-731P,Crystal Black Pearl (NH-731P),1
+98,D.B.M.,Dark Blue Mica Colour Clear,1
+99,D.G.M.,Dark Grey Mica,1
+100,"798",Sanidine Beige 798,1
+101,"1D4(WISH)",Moon Silver 1D4,1
+102,"8U8",Light Blue Mica Metallic 8U8,1
+103,SMM,Sable Mica Metallic,1
+104,BG-53M,Cerulean Blue Metallic (BG-53M),1
+105,"3R0",Blackish Red Mica Metallic 3R0,1
+106,"8S7",Light Blue Mica Metallic 8S7,1
+107,QX1,White Pearl (QX1),1
+108,"2T",Deep Black 2T,1
+109,"077",White Pearl Crystal Shine 077,1
+110,"300",Alpine White 300,1
+111,"49U",Sterling Silver 49U,1
+112,"5A7",Silky Gold Mica Metallic 5A7,1
+113,"1H2",Dark Steel Mica 1H2,1
+114,K23,Brilliant Silver (K23),1
+115,A72,Brown A72,1
+116,A6C,COOL WHITE (A6C),1
+117,"18G",HIGHLIGHT SILVER (18G),1
+118,"30B",TITANIUM GRAY (30B),1
+119,"16W",BLACK MICA (16W),1
+120,"37L",WINNING BLUE (37L),1
+121,"37R",Lagoon Blue (37R),1
+122,"37M",COPPER RED (37M),1
+123,"37P",DESERT BRONZE (37P),1
+124,DWS,Diamond White (DWS),1
+125,PBM,Panther Black (PBM),1
+126,MDM,Moondust Silver (MDM),1
+127,ONM,Ocean Bule (ONM),1
+128,CLM,Chill (CLM),1
+129,TNM,Tonic (TNM),1
+130,TRM,Tango Red (TRM),1
+131,A2W,COOL WHITE (A2W),1
+132,"36C",Metropolitan Gray (36C),1
+133,A4A,TRUE RED (A4A),1
+134,"39A",AURORA BLUE (39A),1
+135,"33J",CHILLI ORANGE (33J),1
+136,"34N",PHANTOM PURPLE (34N),1
+137,"32C",PHANTOM BLUE (32C),1
+138,"37Y",GLOAMING SILVER (37Y),1
+139,"18G.",HIGHLIGHT SILVER M (18G.),0
+140,"2T",Deep Black  2T,0
+141,"218",Attitude Black Mica 218,1
+142,HY,Hyper Metallic,1
+143,MG,Magnetic Grey,1
+144,SB,Soft Beige,1
+145,PB5,Timeless Black PB5,1
+146,G42,Black Star (G42),1
+147,"33Y",Icy Blue (33Y),1
+148,"8W1",True Blue Mica Metallic 8W1,1
+149,"154",Carbon Black Metallic 154,1
+150,"34E",SPARKLING GOLD (34E),1
+151,"4CD",LUNAR SKY (4CD),1
+152,"9AE",Light Purple Mica Metallic,1
+153,UB,Ultimate Black,1
+154,E058,White E058,1
+155,W,White,1
+156,"4CH",Midnight Sky (4CH),1
+157,"4CG",Ingot Silver (4CG),1
+158,"4CF",Panther Black (4CF),1
+159,"38L",GUNMETAL BLUE (38L),1
+160,"149",Polar White 149,1
+161,STB,STONE BLACK,1
+162,SS,SLEEK SILVER,1
+163,AW,Arctic White AW,1
+164,"792",Palladium Silver 792,1
+165,NH-788P,White Orchid Pearl (NH-788P),1
+166,"4CN",Candy Red (4CN),1
+167,NH-797M,Modern Steel Metallic (NH-797M),1
+168,YR-591P,Champagne Frost Pearl (YR-591P),1
+169,"4W0",Quartz Brown Metallic 4W0,1
+170,"4W1",Silky Beige Metallic 4W1,1
+171,"3S1",Red Mica Metallic 3S1,1
+172,"4CA",FROZEN WHITE (4CA),1
+173,"4Q",Toffee Brown 4Q,1
+174,A4D,Arctic White (A4D),1
+175,"212",Black (212),1
+176,B4,Candy White B4,1
+177,"1F9",Gray Metallic 1F9,1
+178,"4U3",Dark Brown Mica Metallic 4U3,1
+179,KAC,Grayish Bronze (KAC),1
+180,(1J7),Sonic Titanium (1J7),1
+181,(8V3),LAPIS LAZULI MICA (8V3),1
+182,"526",Dolomite Brown 526,1
+183,P3,Dark Wood Pearl Effect P3,1
+184,M4,Natural Grdy Metallic M4,1
+185,P8,Sand Beige Metallic P8,1
+186,"8E.",Reflex Silver Metallic  8E,1
+187,"2T.",Deep Black Pearl Effect 2T,1
+188,B4.,Candy White Solid B4,1
+189,D-MAX .A.B,Australian Coal Black,1
+190,D-MAX . M,Mexican Silver,1
+191,D-MAX.A.S,Arctic Silver,1
+192,D-MAX.S.W,Siberian White,1
+193,"070 ALTIS",White Pearl 070,0
+194,ACB,Australian Coal Black,1
+195,"1D6",Silver Metallic 1D6,1
+196,"755",Tenorite Grey 755,1
+197,R.R.,Regal Red,1
+198,P.B.,Pitch Black,1
+199,P.S.,Platinum Silver,1
+200,A.W.,Arctic White,1
+201,G.G.,Granite Grey,1
+202,(1H9),Mercury Gray Mica (1H9),1
+203,"300 12",Rosso Corsa 300 12,1
+204,"8V5",Grayish Blue Mica Metallic 8V5,1
+205,T.Y.B.T.,Tudor Yellow / Black Top,1
+206,R.R.W.T.,Regal Red White Top,1
+207,T.B.W.T.,Thames Blue / White Top,1
+208,A.M.,ALUMINUM METALLIC,1
+209,"086",Luxury White Pearl 086,1
+210,"222",Burning Black 222,1
+211,S,Silver,1
+212,P35,Hyper Metallic P35,1
+213,ZBF,Sahara Bronze ZBF,1
+214,P25,Hyper Metallic P25,1
+215,N7N,Arabian Mocha N7N,1
+216,"1G3.",Dark Gray Mica Metallic 1G3,1
+217,"8X2",Nebula Blue 8X2,1
+218,"3T6",Crimson Spark Red Metallic 3T6,1
+219,"040.",Super White  040,0
+220,"040.",Super White 040,1
+221,E.P.W.,Everest Pearl White,1
+222,S.W.,Siberian White,1
+223,"988",Diamond Silver 988,1
+224,"4W9",Phantom Brown 4W9,1
+225,"700",Twilight Bronze Metallic 700,1
+226,"223",Graphite Black Glass Flake (223),1
+227,A83,Glacier Silver A83,1
+228,B,Brown,1
+229,P3S,Hyper Metallic P3S,1
+230,"668",Black 668,1
+231,"040-",White Solid 040,1
+232,A96,Mineral White A96,1
+233,NH-797MX,Modern Steel Metallic (NH-797MX),1
+234,W09,White W09,1
+235,TN9,Tan Brown TN9,1
+236,H4,Chestnut Brown H4,1
+237,X3,Indium Grey X3,1
+238,"992",Selenite Grey 992,1
+239,"9197",Obsidian Black Metallic 9197,1
+240,P2S,Hyper Metallic P2S,1
+241,MBMB,Mercedes Benz Metallic Black,1
+242,J.B.M.,Jet Black Metallic,1
+243,"890",Cavansite blue 890,1
+244,A.W.B.T.,Arctic White / Black Top,1
+245,ขาว,ขาว,1
+246,A90,Sophisto Grey Metallic A90,1
+247,C26,Magellan Grey Metallic C26,1
+248,T.Y.W.T.,Tudor Yellow / White Top,1
+249,M.G.,Metal Grey,1
+250,T,Traditional,1
+251,M.S.,Mocha Stain,1
+252,R.M.,Red Mahogany,1
+253,TBC.,TBD by Customer,1
+254,"1G3..",Gray Mica Metallic 1G3,1
+255,"4X1",Steel Bronzc Metallic 4X1,1
+256,NH-830M,Lunar Silver Metallic (NH-830M),1
+257,A W,Arctic White,0
+258,A.B.,Absolute black,1
+259,"719",Luminous Sand Metallic 719,1
+260,"721",Mussel Blue Metallic 721,1
+261,"714",Osmium Grey Metallic 714,1
+262,"717",Onyx Black Metallic 717,1
+263,"089",Platinum White Pearl 089,1
+264,"3T3",Premium Red Mica 3T3,1
+265,"4X7",Graphite Metallic 4X7,1
+266,"6W0",Citrus Mica Metallic 6W0,1
+267,"4R8",Orange Metallic 4R8,1
+268,"3R3",Red Mica Metallic 3R3,1
+269,"8W7",Dark Blue Mica Metallic 8W7,1
+270,"1K0",Metal Stream Metallic 1K0,1
+271,"2NF",Premium Red Black Roof 2NF,1
+272,"2MU",Blue Metallic Black Roof 2MU,1
+273,"2PY",Radiant Green Metallic Black Roof 2PY,1
+274,(1K2),Manganese Luster  (1K2),1
+275,ไม้,สีเนื้อไม้,1
+276,"202.",Black Mica 202,1
+277,"1K3",Celestite Grey Metallic 1K3,1
+278,"222.",Burning Black Crystal 222,1
+279,A90.,Sophisto Grey brillant effect A90,1
+280,"6W2",Citrus Mica Metallic 6W2,1
+281,"1D",White 1D,1
+282,ส้ม,ส้ม,1
+283,(085),Sonic Quartz (085),1
+284,(1J4),Plantinum Silver Metallic (1J4),1
+285,(LH9),Mercury Grey Mica (lH9),1
+286,(3R1),Red Mica Crystal Shine (3R1),1
+287,(6X0),Sunlight Green Mica Metallic (6X0),1
+288,(223),Graphite Black Glass Flake (223),1
+289,(4X8),Ice Ecru Mica Metallic (4X8),1
+290,(8X5),Deep Blue Mica (8X5),1
+291,MB 9197,Obsidian Black MB 9197,1
+292,P8V,Steel Graphite P8V,1
+293,A.B.M.,ABSOLUTE BLACK METALLIC,1
+294,"070.",White Pearl Crystal Shine 070,1
+295,"3U5",Emotional Red II 3U5,1
+296,"8X8",Dark Blue Mica 8X8,1
+297,"1G3...",Dark Gray Metallic 1G3,1
+298,"6X1",Oxide Bronze Metallic 6X1,1
+299,"2SC",Emotional Red II Black Top 2SC,1
+300,"2QJ",White Pearl Crystal Black Top 2QJ,1
+301,"2PS",Platinum White Pearl Black Roof 2PS,1
+302,"2QL",Red Mica Metallic Black Roof 2QL,1
+303,"2QM",Citrus Mica Metallic Black Roof 2QM,1
+304,"2UH",Cyan Metallic Black Roof 2UH,1
+305,"8W9",Cyan Metallic 8W9,1
+306,"1E7.",Black 1E7,1
+307,S.M.,Silver Metallic,1
+308,B.K.,Black Knight,1
+309,(25D),Snowflake White Pearl (25D),1
+310,S.R.,Scarlet Red,1
+311,NH-883P,Platinum White Pearl (NH-883P),1
+312,"2NA",White Pearl Crystal Black Roof 2NA,1
+313,"2NK",Metal Stream Metallic Black Roof 2NK,1
+314,(46G),Machine Gray (46G),1
+315,(45P),Sonic Silver (45P),1
+316,(41W),Jet Black (41W),1
+317,(46V),Soul Red Crystal (46V),1
+318,(42M),Deep Crystal Blue (42M),1
+319,B-607M,Cosmic Blue Metallic (B-607M),1
+320,"922",High-tech silver 922,1
+321,"831",Graphite grey 831,1
+322,"707",Crystal White Premium Metallic 707,1
+323,M.A.G.,Metal Ask Grey,1
+324,M.A.G,Metal Ash Grey,1
+325,WSB,Arctic White,1
+326,W.B.,W.B.NERO DAYTONA 508,1
+327,"508",W.B.NERO DAYTONA 508,1
+328,O.B.M,Onyx Black Metallic,1
+329,"2QZ",Grey Metallic Black Roof 2QZ,1
+330,EEE,Grayish Blue Metallic Black Roof EEE,1
+331,"3R3 B.R.",Red Mica Metallic Black Roof 3R3,1
+332,"725",Fusion Red Metallic 725,1
+333,"727",Pebble Grey Metallic 727,1
+334,"728",Thunder Grey Metallic 728,1
+335,ABP,Abyss Black Pearl,1
+336,GGM,Graphite Gray Metallic,1
+337,SSM,Shimmering Silver Metallic,1
+338,P20,Purplish Silver Mica Metallic P20,1
+339,X12,Black Metallic X12,1
+340,"3Q3",Dark Red Mica Metallic 3Q3,1
+341,"731",Platinum Grey Metallic 731,1
+342,A96.,Mineral White Metallic A96,1
+343,"2VP",Platinum White Pearl Black Roof 2VP,1
+344,"2VQ",Attitude Black Mica Silver Roof 2VQ,1
+345,"2VR",Nebula Blue Silver Roof 2VR,1
+346,C1M,Phytonic Blue C1M,1
+347,S44,Urban Metal S44,1
+348,(PPG 0194),Verde Themis (PPG 0194),1
+349,"1L1",Sonic Chorme 1L1,1
+350,"475 M",Black Sapphire Metallic 475,1
+351,ABPWTB,Abyss Black Pearl with Tinted Brass,1

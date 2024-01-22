@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'page_title' => 'รายการไฟแนนซ์รถทั้งหมด',
+    'page_form_title' => 'รายละเอียดสัญญาเช่าซื้อรถ',
+    'page_title_excel' => 'เลือกสัญญาเช่าซื้อรถที่ต้องการ',
+    'search_lot_no' => 'เลข Lot',
+    'search_rental' => 'ผู้ให้เช่า / สถาบันการเงิน',
+    'search_date_create' => 'วันที่จัดทำ',
+    'search_status' => 'สถานะ',
+    'search_contract_start' => 'วันที่เริ่มต้นสัญญา',
+    'search_first_payment' => 'ชำระค่างวดทุกวันที่',
+    'search_contract_end' => 'วันที่ชำระงวดวันสุดท้าย / สิ้นสุดสัญญา',
+    'car_total' => 'จำนวนรถ',
+    'btn_download_excel' => 'ดาวน์โหลดExcel',
+    'modal_export_excel_title' => 'เลือกสัญญาเช่าซื้อรถที่ต้องการ',
+    'alert_warning' => 'ยังไม่พร้อมใช้งาน',
+    'contract_start' => 'วันที่เริ่มต้นสัญญา',
+    'contract_end' => 'วันที่ชำระงวดสุดท้าย / สิ้นสุดสัญญา',
+    'pay_installments' => 'ค่างวดชำระทุกวันที่',
+    'status_' . FinanceStatusEnum::READY => 'พร้อมใช้งาน',
+    'status_' . FinanceStatusEnum::CLOSE => 'ปิดไฟแนนซ์',
+    'status_' . FinanceStatusEnum::READY . '_class' => 'success',
+    'status_' . FinanceStatusEnum::CLOSE . '_class' => 'danger',
+];

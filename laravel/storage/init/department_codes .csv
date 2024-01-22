@@ -1,0 +1,31 @@
+﻿ลำดับ,ชื่อแผนก,code
+1,QMD / Quality Assurance,QMD_QUALITY_ASSURANCE
+2,QMD / Maintenance,QMD_MAINTENANCE
+3,CSD / Customer Service & Corporate,CSD_CUSTOMER_SERVICE_CORPORATE
+4,PCD / ฝ่ายเสนอราคา,PCD_SALE
+5,PCD / ฝ่ายสั่งซื้อ,PCD_PURCHASE
+6,PCD / ฝ่ายจัดเตรียมไฟแนนซ์,PCD_PREPARE_FINANCE
+7,PCD / ฝ่ายติดตั้งอุปกรณ์,PCD_INSTALL_EQUIPMENT
+8,PCD / ฝ่ายงานทะเบียน,PCD_REGISTRATION
+9,PCD / ฝ่ายขายรถยนต์ GPS  Management,PCD_GPS_MANAGEMENT
+10,PCD / ฝ่ายขายรถยนต์ Resale Department,PCD_RESALE
+11,AMO / ฝ่าย Sale & admin,AMO_SALE_ADMIN
+12,AMO / ฝ่ายรถขนส่ง,AMO_TRANSPORT
+13,AMO / ฝ่ายควบคุมการเบิกจ่ายเงินสดย่อย,AMO_PETTY_CASH_MANAGEMENT
+14,AMO / ฝ่าย Long –Term Affiliates Rental,AMO_LONGTERM_AFFILIATES
+15,FOD / Finance Support,FOD_FINANCE_SUPPORT
+16,FOD / Maintenance Service Support,FOD_MAINTENANCE_SERVICE_SUPPORT
+17,FMD / Feet Management,FMD_FEET_MANAGEMENT
+18,RMD / ฝ่ายกฏหมาย,RMD_LEGAL
+19,RMD / ฝ่ายประกันภัย,RMD_INSURANCE
+20,RMD / ฝ่ายสัญญา,RMD_CONTRACT
+21,RMD / อุบัติเหตุ,RMD_ACCIDENT
+22,CMD / Long-term Rental,CMD_LONGTERM_RENTAL
+23,CMD / Shot-term Rental,CMD_SHORTTERM_RENTAL
+24,FAD / หน่วยงาน Collection,FAD_COLLECTION
+25,FAD / หน่วยงานทรัพย์สิน,FAD_ASSET
+26,FAD / หน่วยรายได้และลูกหนี้การค้า,FAD_ACCOUNTS_RECEIVABLE
+27,FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,FAD_FINANCE_RECEIPT
+28,FAD / กระบวนการทำงานด้านรายจ่าย,FAD_ACCOUNT_PAYABLE
+29,BMD / Branch Management,BMD_BRANCH_MANAGEMENT
+30,ผู้ดูแลระบบ(Admin),ADMIN

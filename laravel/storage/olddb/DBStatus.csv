@@ -1,0 +1,328 @@
+﻿"Code","StatusWord","Comment"
+200,ราชการ,ลูกค้า
+201,นิติบุคคล,ลูกค้า
+202,บุคคลธรรมดา,ลูกค้า
+203,มุ่งหวัง,ลูกค้า
+300,ชั่วคราว,ลูกค้า
+301,ถาวร,ลูกค้า
+401,ปกติ,พบลูกค้า
+402,ยกเลิก,พบลูกค้า
+403,ไม่บันทึกเวลา,พบลูกค้า
+404,เยี่ยมเรียบร้อย,พบลูกค้า
+501,ลูกค้าตัวแทน,พบลูกค้า จองแบบไหน
+502,ลูกค้ากลาง,พบลูกค้า จองแบบไหน
+601,ว่าง,Visit Status ใน DBCus
+602,ถูกจอง,Visit Status ใน DBCus
+700,Non Vat,Vat Status
+701,Inc Vat,Vat Status
+800, ,Cus BlackList
+801,Black list,Cus BlackList
+900,No Authority,Secue Type
+901,Read Only,Secue Type
+902,Full Access,Secue Type
+1000,ไม่ระบุ,พนง.ขัีับรถ
+1001,พนง.ชั่วคราว,พนง.ขัีับรถ
+1002,พนง.ประจำ,พนง.ขัีับรถ
+1003,พนง.ตามสัญญา,พนง.ขัีับรถ
+1201,เกัยร์,DBCarPart Type
+1202,ระบบขับเคลื่อน,DBCarPart Type
+1203,เบาะรถ,DBCarPart Type
+1204,กระจกมองข้าง,DBCarPart Type
+1205,Air bag,DBCarPart Type
+1206,Cental lock,DBCarPart Type
+1207,เบรกหน้า,DBCarPart Type
+1208,เบรกหลัง,DBCarPart Type
+1209,ABS,DBCarPart Type
+1210,กันขโมย,DBCarPart Type
+2000,ตัวแทนหลัก,Sale
+2001,ตัวแทนช่วง,Sale
+2100,ไม่ระบุ,Insure Type
+2101,ประกันชั้น 1,Insure Type
+2102,ประกันชั้น 2,Insure Type
+2103,ประกันชั้น 3,Insure Type
+4000,ไม่ระบุ,maintenance Type
+4001,ตรวจเช็คปรับตั้ง,maintenance Type
+4002,ตรวจด้วยสายตา,maintenance Type
+4003,เปลี่ยน,maintenance Type
+4010,สั่งงานซ่อมบำรุง,CarRepair_Type
+4011,สั่งงานตามใบส่งซ่อม,CarRepair_Type
+4012,สั่งงานเอง,CarRepair_Type
+4020,ยกเลิก,CarRepair Status
+4021,รถรอส่งซ่อม,CarRepair Status
+4022,รถระหว่างซ่อม,CarRepair Status
+4023,รอตรวจสอบ,CarRepair Status
+4024,ปิดงานรอส่งมอบ,CarRepair Status
+4025,ปิดงาน,CarRepair Status
+4026,ซ่อมใหม่,CarRepair Status
+4027,-,CarRepair Status
+4030,ใบสั่งงานใน,JI - JO
+4031,ใบสั่งงานนอก,JI - JO
+4040,ยกเลิก,RepairQA status
+4041,รอการยืนยัน,RepairQA status
+4042,ยืนยันแล้ว,RepairQA status
+4050,ยกเลิก,Option Paper status
+4051,รอติดตั้ง,Option Paper status
+4052,ติดตั้งบางส่วน,
+4053,ติดตั้งเรียบร้อย,
+4060,ยกเลิก,Replace Status
+4061,ระหว่างทดแทน,Replace Status
+4062,ทดแทนเรียบร้อย,Replace Status
+4063,รอรับรถทดแทนคืน,Replace Status
+4064,คืนรถเรียบร้อย,Replace Status
+4070,ยกเลิก,CR status
+4071,รอรับรถ,CR status
+4072,ปกติ,CR status
+4073,รอตรวจสอบ,CR status
+4074,รอล้างรถ,CR status
+4075,รอส่งคืน,CR status
+4076,เรียบร้อย,CR status
+4077,ซ่อมไม่ผ่าน,CR status
+4080,ยกเลิก,HC Status
+4081,แจ้งแก้ไข,HC Status
+4082,รออนุมัติ,HC Status
+4083,อนุมัติเรียบร้อย,HC Status
+4090,ยกเลิก,CarChange Status
+4091,ปกติ,CarChange Status
+4092,เรียบร้อย,CarChange Status
+4100,ยกเลิก,CL_accident Status
+4101,เริ่มงานใหม่,CL_accident Status
+4102,ดำเนินงาน,CL_accident Status
+4103,ปิดงาน,CL_accident Status
+4110,ยกเลิก,CL Status
+4111,รอส่งซ่อม,CL Status
+4112,ระหว่างซ่อม,CL Status
+4113,รอตรวจสอบ,CL Status
+4114,รอส่งมอบ,CL Status
+4115,ปิดงาน,CL Status
+4116,ซ่อมใหม่,CL Status
+4120,ยกเลิก,CL Pay Status
+4121,ปกติ,CL Pay Status
+4130,ไม่ระบุ,CL Pay Type
+4131,รับทุนประกันคืน,CL Pay Type
+4132,ค่ารักษาพยาบาล,CL Pay Type
+4133,ค่าสินไหมทดแทน,CL Pay Type
+4134,ค่ารถยก ,CL Pay Type
+4135,ค่าซ่อมรถ-เปลี่ยนอะไหล่,CL Pay Type
+4140,ยกเลิก,Job CL_accident Status
+4141,เริ่มงานใหม่,Job CL_accident Status
+4142,ดำเนินงาน,Job CL_accident Status
+4143,ปิดงาน,Job CL_accident Status
+4150,ไม่ระบุ,CLAS_Type
+4151,อุบัติเหตุ,CLAS_Type
+4152,ซ่อม,CLAS_Type
+4160,ยกเลิก,CarReceiveFix Status
+4161,รอส่งคืน,CarReceiveFix Status
+4162,ระหว่างซ่อม,CarReceiveFix Status
+4163,ส่งคืนเรียบร้อย,CarReceiveFix Status
+4200,ไม่อนุมัติ,BO Status
+4201,รออนุมัติ,BO Status
+4202,รอเลือกรถ,BO Status
+4203,รอส่งมอบ,BO Status
+4204,รอรับรถคืน,BO Status
+4205,รับรถเรียบร้อย,BO Status
+4206,ยกเลิก,BO Status
+4210,ภายใน,BO Type
+4211,ภายนอก,BO Type
+4220,ยกเลิก,AM Status
+4221,รอส่งมอบ,AM Status
+4222,รอรับรถคืน,AM Status
+4223,รับรถเรียบร้อย,AM Status
+4230,ยกเลิก,PL Status
+4231,รอส่งมอบ,PL Status
+4232,รอรับรถคืน,PL Status
+4233,รับรถเรียบร้อย,PL Status
+4300,ไม่เป็น,ChkList Type
+4301,รายการตรวจเช็ค,ChkList Type
+4310,ไม่เป็น,ChkList Type
+4311,รายการเคลม,ChkList Type
+4320,ไม่ระบุ,
+4321,ค่าแรง,
+4322,ค่าอะไหล่,
+4331,-,OptPep IsAttachCar
+4332,ติดตั้ง,OptPep IsAttachCar
+4340,ไม่แสดง,การแสดงส่วนลด
+4341,เปอร์เซ็น,การแสดงส่วนลด
+4342,จำนวนเงิน,การแสดงส่วนลด
+4400,ยกเลิก,OperationStaff Status
+4401,ปกติ,OperationStaff Status
+4402,ทำใบเคลียร์แล้ว,OperationStaff Status
+4410,ยกเลิก,OperationStaffClear Status
+4411,ปกติ,OperationStaffClear Status
+4412,เรียบร้อย,OperationStaffClear Status
+4500,ยกเลิก,AssignCus Status
+4501,ส่งมอบเรียบร้อย,AssignCus Status
+4502,รอจัดเตรียมรถ,AssignCus Status
+4503,รับคืนรถเรียบร้อยแล้ว,AssignCus Status
+4504,รอการส่งมอบรถ,
+4510, ,ACUS_IsReady
+4511,พร้อม,ACUS_IsReady
+5000,"5000 - 5999 สำหรับ รถ",
+5010,พร้อมจด,Car Regis
+5011,จดแล้ว,Car Regis
+5020,ยังไม่แจ้งเตือน,Car Notice
+5021,แจ้งเตือนแล้ว,Car Notice
+5030,-,For Sale Status
+5031,YES,For Sale Status
+5100,"5100-5199 เป็นค่าใช้จ่าย",CarExpense_Type
+5101,ค่าจดทะเบียน,CarExpense_Type
+5102,ค่าต่อภาษี,CarExpense_Type
+5103,ค่าปรับภาษี,CarExpense_Type
+5104,ค่า พรบ.,CarExpense_Type
+5105,ค่าประกันภัย,CarExpense_Type
+5106,ค่าเปลี่ยนทะเบียนเป็นป้ายขาว,CarExpense_Type
+5107,ค่าอุปกรณ์เสริม,CarExpense_Type
+5110,ค่าซ่อมรถ,CarExpense_Type
+5111,ค่าใช้จ่ายอื่นๆ,CarExpense_Type
+5120,ค่างวดเจ้าหนี้,CarExpense_Type
+5121,ค่าตัดสัญญาเช่าซื้อ,CarExpense_Type
+5122,ค่าซื้อรถ,CarExpense_Type
+5123,ค่าดอกเบี้ยรถ,CarExpense_Type
+5124,ค่าส่วนลด,CarExpense_Type
+5125,ค่าภาษีป้าย,
+5199,"5100-5199 เป็นค่าใช้จ่าย",Car Pay
+5999,"5000 - 5999 สำหรับ รถ",Car Pay
+6000,"6000-6999 สำหรับ  AC",AC
+6009,ชำระเงินบางส่วน,
+6010,ยกเลิก,Invoice Status
+6011,"",Invoice Status
+6012,ชำระเงิน,Invoice Status
+6013,ลดหนี้ทางการค้า,Invoice Status
+6021,อยู่ระหว่างสัญญา,LeasingContract_Status
+6022,ปิดสัญญาเช่าซื้อ,LeasingContract_Status
+6101,บาท/วัน,Car Contract unit Price
+6102,บาท/สัปดาห์,Car Contract unit Price
+6103,บาท/เดือน,Car Contract unit Price
+6104,บาท/เที่ยว,Car Contract unit Price
+6201,ดำเนินการ,Invoice Assistance
+6202,ดำเนินการครบทุกงวด,Invoice Assistance
+6203,ยกเลิก,Invoice Assistance
+6210,-,Invoice Assistance
+6211,Fix Date,Invoice Assistance
+6212,ชนเดือน,Invoice Assistance
+6221,สัญญาระยะสั้น,IA_Type
+6222,สัญญาระยะยาว,IA_Type
+6223,สัญญากลุ่ม,IA_Type
+6224,สัญญาพนง.ขับรถ,IA_Type
+6225,อื่นๆ,IA_Type
+6230,ยังไม่ได้ระบุ,TaxInvoice PayType
+6231,เงินสด,TaxInvoice PayType
+6232,เช็ค,TaxInvoice PayType
+6233,บัตรเครดิต,TaxInvoice PayType
+6234,โอนเงิน,TaxInvoice PayType
+6240,ยกเลิก,TaxInvoice Status
+6241,รอยืนยัน,TaxInvoice Status
+6242,ไม่ผ่าน,TaxInvoice Status
+6243,ผ่าน,TaxInvoice Status
+6250,ยกเลิก,CNInvoice Status
+6251,"",CNInvoice Status
+6260,ยกเลิก,TaxInvoice CN Status
+6261,"",TaxInvoice CN Status
+6270,ยกเลิก,CarPayment Status
+6271,เรียบร้อย,CarPayment Status
+6280,ชำระไม่ครบ,CarPayment_PaymentStatus
+6281,ชำระครบ,CarPayment_PaymentStatus
+6999,"6000-6999 สำหรับ  AC",AC
+7101,ป้ายทะเบียน,
+7201,tmp Add,
+7202,Normal,
+7203,tmp Del,
+8000,ยกเลิก,Po Status
+8001,รอผล,Po Status
+8002,อนุมัติ,Po Status
+8003,จองเรียบร้อย,Po Status
+8004,เสนอราคาใหม่,Po Status
+8010,ยกเลิก, Reserve Status
+8011,รอการอนุมัติ, Reserve Status
+8012,อนุมัติ, Reserve Status
+8013,ขอซื้อเรียบร้อย, Reserve Status
+8020,ยังไม่สั่ง,un use
+8021,สั่งแล้ว,un use
+8030,ยกเลิก,Sale Order Status
+8031,รอการอนุมัติ,Sale Order Status
+8032,อนุมัติ,Sale Order Status
+8033,ขออนุมัติเรียบร้อย,Sale Order Status
+8040,ยกเลิก,App Order Status
+8041,รอการจัดทำใบขออนุมัติ,App Order Status
+8042,รอการอนุมัติ,App Order Status
+8043,อนุมัติ,App Order Status
+8044,สั่งซื้อเรียบร้อย,App Order Status
+8050,ยกเลิก,SaleDealer
+8051,รอ Approve,SaleDealer
+8052,ปิดงาน,SaleDealer
+8053,เรียบร้อย,SaleDealer
+8061,รอ Approve,App Dealer Status
+8062,Approve บางส่วน,App Dealer Status
+8063,Approve เรียบร้อย,App Dealer Status
+8071,Approve,App Dealer Car Status
+8072,เข้าคลัง,App Dealer Car Status
+8080,ยกเลิก,SaleAsk Status
+8081,ระหว่างสอบถาม,SaleAsk Status
+8082,เรียบร้อย,SaleAsk Status
+8100,New Car,
+8101,Used Car,
+8200,ระยะสั้น,Lease Type
+8201,ระยะยาว,Lease Type
+8202,ระยะสั้น,Lease Type
+8203,Limousine,Lease Type
+8211,วัน,หน่วยค่าเช่า
+8212,สัปดาห์,หน่วยค่าเช่า
+8213,เดือน,หน่วยค่าเช่า
+8214,Trip,หน่วยค่าเช่า
+8215,เที่ยว,หน่วยค่าเช่า
+8216,ชั่วโมง,หน่วยค่าเช่า
+8220,-,Contract Payment
+8221,เงินสด,Contract Payment
+8222,เช็ค,Contract Payment
+8223,เครดิตการ์ด,Contract Payment
+8224,วางบิล,
+8225,อื่นๆ,
+8300,Self-Driver,Driver Type
+8301,W/Driver,Driver Type
+8302,Tran,Driver Type
+8303,-,Driver Type
+8401,Daily,Contract Type
+8402,Weekly,Contract Type
+8403,Monthly,Contract Type
+8404,Yearly,Contract Type
+8411,"1 Year",Contract Type
+8412,"2 Years",Contract Type
+8413,"3 Years",Contract Type
+8414,"4 Yraes",Contract Type
+8420,ยกเลิกสัญญา,Contract Status
+8421,ระหว่างเช่า,Contract Status
+8422,จัดทำ Invoice,Contract Status
+8423,ปิดสัญญาเช่า,Contract Status
+8424,รับชำระเงิน,Contract Status
+8425,ชำระเงินบางส่วน,Contract Status
+8430,"",Contract Advance
+8431,ล่วงหน้า,Contract Advance
+8440,ยังไม่ส่งมอบ,Contract CarAct
+8441,ส่งมอบเรียบร้อย,Contract CarAct
+8442,รับรถคืนเรียบร้อย,Contract CarAct
+8500,ยกเลิก,ContractDriver Status
+8501,ระหว่างสัญญา,ContractDriver Status
+8502,เรียบร้อย,ContractDriver Status
+9000,ยกเลิก,SparePart Status
+9001,ปกติ,SparePart Status
+9002,รอตัดสต็อค,SparePart Status
+9003,เรียบร้อย,SparePart Status
+9010,ยังไม่รับเข้า,SparePart Status
+9011,รับเข้าบางส่วน,SparePart Status
+9012,รับเข้าครบ,SparePart Status
+9013,รับเข้าเกิน,SparePart Status
+9020,ยกเลิก,SparePart Out Status
+9021,ปกติ,SparePart Out Status
+9022,รอตัดสต็อก,SparePart Out Status
+9023,เรียบร้อย,SparePart Out Status
+9030,ยังไม่เบิก,SparePart Out Status
+9031,เบิกบางส่วน,SparePart Out Status
+9032,เบิกครบ,SparePart Out Status
+9033,เบิกเกิน,SparePart Out Status
+9040,-,SparePart Serial
+9041,Serial,SparePart Serial
+9050,*RCV,SPHis Type
+9051,RCV,SPHis Type
+9052,DSP,SPHis Type
+9053,ADJIN,SPHis Type
+9054,ADJOUT,SPHis Type
+111201,,

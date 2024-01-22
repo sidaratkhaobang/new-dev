@@ -1,0 +1,20 @@
+FROM registry-git.undpro.com/laravel/newcarfly/composer:dev as vendor
+
+FROM registry-git.undpro.com/laravel/newcarfly/npm:dev as frontend
+
+FROM registry-git.undpro.com/laravel/nginx-php-fpm/main:latest
+
+RUN rm -rf /usr/share/nginx/html/*
+COPY --chown=nginx:nginx . /usr/share/nginx/html
+
+COPY --from=vendor --chown=nginx:nginx /app/vendor/ /usr/share/nginx/html/vendor/
+
+COPY --from=frontend --chown=nginx:nginx /app/public/js/ /usr/share/nginx/html/public/js/
+COPY --from=frontend --chown=nginx:nginx /app/public/css/ /usr/share/nginx/html/public/css/
+#COPY --from=frontend --chown=nginx:nginx /app/public/lang/ /usr/share/nginx/html/public/lang/
+#COPY --from=frontend --chown=nginx:nginx /app/public/views/ /usr/share/nginx/html/public/views/
+#COPY --from=frontend --chown=nginx:nginx /app/public/packages/ /usr/share/nginx/html/public/packages/
+#COPY --from=frontend --chown=nginx:nginx /app/public/mix-manifest.json /usr/share/nginx/html/public/mix-manifest.json
+
+RUN touch /usr/share/nginx/html/storage/logs/laravel.log
+RUN chmod 666 /usr/share/nginx/html/storage/logs/laravel.log

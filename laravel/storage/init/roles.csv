@@ -1,0 +1,70 @@
+ลำดับ,Role_Name,Section_Code,Department_Code
+1,หัวหน้าแผนก Affiliated Management & Operation Support,,AMO
+2,หัวหน้าแผนก Branch Management,,BMD
+3,หัวหน้าแผนก Commercial Management Department,,CMD
+4,หัวหน้าแผนก Customer Service & Corporate Development,,CSD
+5,หัวหน้าแผนก Finance & Accounting,,FAD
+6,หัวหน้าแผนก Finance operation,,FAD
+7,หัวหน้าแผนก Fleet Management,,FMD
+8,หัวหน้าแผนก Purchase & Resale,,PCD
+9,หัวหน้าแผนก Quality Assurance & Maintenance,,QMD
+10,หัวหน้าแผนก Risk Management,,RMD
+11,หัวหน้าฝ่าย AMO / ฝ่าย Sale & admin,AMO_SALE_ADMIN,AMO
+12,หัวหน้าฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,AMO_LONGTERM_AFFILIATES,AMO
+13,หัวหน้าฝ่าย AMO / ฝ่ายรถขนส่ง,AMO_TRANSPORT,AMO
+14,หัวหน้าฝ่าย AMO / ฝ่ายควบคุมการเบิกจ่ายเงินสดย่อย,AMO_PETTY_CASH_MANAGEMENT,AMO
+15,หัวหน้าฝ่าย BMD / Branch Management,BMD_BRANCH_MANAGEMENT,BMD
+16,หัวหน้าฝ่าย CMD / Long-term Rental,CMD_LONGTERM_RENTAL,CMD
+17,หัวหน้าฝ่าย CMD / Shot-term Rental,CMD_SHORTTERM_RENTAL,CMD
+18,หัวหน้าฝ่าย CSD / Customer Service & Corporate,CSD_CUSTOMER_SERVICE_CORPORATE,CSD
+19,หัวหน้าฝ่าย FAD / หน่วยงาน Collection,FAD_COLLECTION,FAD
+20,หัวหน้าฝ่าย FAD / หน่วยงานทรัพย์สิน,FAD_ASSET,FAD
+21,หัวหน้าฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,FAD_ACCOUNTS_RECEIVABLE,FAD
+22,หัวหน้าฝ่าย FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,FAD_FINANCE_RECEIPT,FAD
+23,หัวหน้าฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,FAD_ACCOUNT_PAYABLE,FAD
+24,หัวหน้าฝ่าย FOD / Finance Support,FOD_FINANCE_SUPPORT,FOD
+25,หัวหน้าฝ่าย FOD / Maintenance Service Support,FOD_MAINTENANCE_SERVICE_SUPPORT,FOD
+26,หัวหน้าฝ่าย FMD / Feet Management,FMD_FEET_MANAGEMENT,FMD
+27,หัวหน้าฝ่าย PCD / ฝ่ายเสนอราคา,PCD_SALE,PCD
+28,หัวหน้าฝ่าย PCD / ฝ่ายสั่งซื้อ,PCD_PURCHASE,PCD
+29,หัวหน้าฝ่าย PCD / ฝ่ายจัดเตรียมไฟแนนซ์,PCD_PREPARE_FINANCE,PCD
+30,หัวหน้าฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,PCD_INSTALL_EQUIPMENT,PCD
+31,หัวหน้าฝ่าย PCD / ฝ่ายงานทะเบียน,PCD_REGISTRATION,PCD
+32,หัวหน้าฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,PCD_GPS_MANAGEMENT,PCD
+33,หัวหน้าฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,PCD_RESALE,PCD
+34,หัวหน้าฝ่าย QMD / Quality Assurance,QMD_QUALITY_ASSURANCE,QMD
+35,หัวหน้าฝ่าย QMD / Maintenance,QMD_MAINTENANCE,QMD
+36,หัวหน้าฝ่าย RMD / ฝ่ายกฏหมาย,RMD_LEGAL,RMD
+37,หัวหน้าฝ่าย RMD / ฝ่ายประกันภัย,RMD_INSURANCE,RMD
+38,หัวหน้าฝ่าย RMD / ฝ่ายสัญญา,RMD_CONTRACT,RMD
+39,หัวหน้าฝ่าย RMD / อุบัติเหตุ,RMD_ACCIDENT,RMD
+40,พนักงาน System Admin,SYS_SA,SYS
+41,พนักงานฝ่าย AMO / ฝ่าย Sale & admin,AMO_SALE_ADMIN,AMO
+42,พนักงานฝ่าย AMO / ฝ่าย Long –Term Affiliates Rental,AMO_LONGTERM_AFFILIATES,AMO
+43,พนักงานฝ่าย AMO / ฝ่ายรถขนส่ง,AMO_TRANSPORT,AMO
+44,พนักงานฝ่าย AMO / ฝ่ายควบคุมการเบิกจ่ายเงินสดย่อย,AMO_PETTY_CASH_MANAGEMENT,AMO
+45,พนักงานฝ่าย BMD / Branch Management,BMD_BRANCH_MANAGEMENT,BMD
+46,พนักงานฝ่าย CMD / Long-term Rental,CMD_LONGTERM_RENTAL,CMD
+47,พนักงานฝ่าย CMD / Shot-term Rental,CMD_SHORTTERM_RENTAL,CMD
+48,พนักงานฝ่าย CSD / Customer Service & Corporate,CSD_CUSTOMER_SERVICE_CORPORATE,CSD
+49,พนักงานฝ่าย FAD / หน่วยงาน Collection,FAD_COLLECTION,FAD
+50,พนักงานฝ่าย FAD / หน่วยงานทรัพย์สิน,FAD_ASSET,FAD
+51,พนักงานฝ่าย FAD / หน่วยรายได้และลูกหนี้การค้า,FAD_ACCOUNTS_RECEIVABLE,FAD
+52,พนักงานฝ่าย FAD / หน่วยงานการเงินและการออกใบเสร็จรับเงิน,FAD_FINANCE_RECEIPT,FAD
+53,พนักงานฝ่าย FAD / กระบวนการทำงานด้านรายจ่าย,FAD_ACCOUNT_PAYABLE,FAD
+54,พนักงานฝ่าย FOD / Finance Support,FOD_FINANCE_SUPPORT,FOD
+55,พนักงานฝ่าย FOD / Maintenance Service Support,FOD_MAINTENANCE_SERVICE_SUPPORT,FOD
+56,พนักงานฝ่าย FMD / Feet Management,FMD_FEET_MANAGEMENT,FMD
+57,พนักงานฝ่าย PCD / ฝ่ายเสนอราคา,PCD_SALE,PCD
+58,พนักงานฝ่าย PCD / ฝ่ายสั่งซื้อ,PCD_PURCHASE,PCD
+59,พนักงานฝ่าย PCD / ฝ่ายจัดเตรียมไฟแนนซ์,PCD_PREPARE_FINANCE,PCD
+60,พนักงานฝ่าย PCD / ฝ่ายติดตั้งอุปกรณ์,PCD_INSTALL_EQUIPMENT,PCD
+61,พนักงานฝ่าย PCD / ฝ่ายงานทะเบียน,PCD_REGISTRATION,PCD
+62,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ GPS Management,PCD_GPS_MANAGEMENT,PCD
+63,พนักงานฝ่าย PCD / ฝ่ายขายรถยนต์ Resale Department,PCD_RESALE,PCD
+64,พนักงานฝ่าย QMD / Quality Assurance,QMD_QUALITY_ASSURANCE,QMD
+65,พนักงานฝ่าย QMD / Maintenance,QMD_MAINTENANCE,QMD
+66,พนักงานฝ่าย RMD / ฝ่ายกฏหมาย,RMD_LEGAL,RMD
+67,พนักงานฝ่าย RMD / ฝ่ายประกันภัย,RMD_INSURANCE,RMD
+68,พนักงานฝ่าย RMD / ฝ่ายสัญญา,RMD_CONTRACT,RMD
+69,พนักงานฝ่าย RMD / อุบัติเหตุ,RMD_ACCIDENT,RMD
